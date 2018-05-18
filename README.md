@@ -3,7 +3,7 @@
 Original Syobon Action by Chiku.
 
 Syobon Action X is the continuation of the original Syobon Action. Featuring a level editor, new mechanics and new levels.
-Currently in development. Report any bugs you found in the Issue Tracker. If you fixed a bug and wish push it, contact me.
+Currently in development. Report any bugs you found in the Issue Tracker. If you fixed a bug and wish to push it, please contact me.
 
 Files and Directories:
 
