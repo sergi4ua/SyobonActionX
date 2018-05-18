@@ -1,1 +1,6 @@
 Syobon Action X
+Platformer engine gone in Game Maker 8.1 Standard.
+
+SyobonActionX.gmk - main GM8.1 project file
+libs/supersound.dll - the SuperSound library
+libs/cleanmem.dll - the GC library
