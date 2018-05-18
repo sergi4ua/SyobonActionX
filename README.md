@@ -1,5 +1,6 @@
 ## Syobon Action X
 **Platformer engine gone in Game Maker 8.1 Standard.**
+
 Original Syobon Action by Chiku.
 
 Syobon Action X is the continuation of the original Syobon Action. Featuring a level editor, new mechanics and new levels.
