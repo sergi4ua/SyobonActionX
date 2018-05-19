@@ -1,0 +1,923 @@
+SERGIOUS_SAX1
+field.ogg
+null
+null
+null
+null
+ 0
+ 0
+ 0
+ 0
+ 304
+obj_background_cloudy
+ 416
+ 160
+obj_background_cloudy
+ 384
+ 160
+obj_background_cloudy
+ 192
+ 32
+obj_background_cloudy
+ 160
+ 32
+obj_background_cloudy
+ 128
+ 32
+obj_background_cloudy
+ 128
+ 64
+obj_background_cloudy
+ 96
+ 64
+obj_background_cloudy
+ 96
+ 96
+obj_background_cloudy
+ 96
+ 128
+obj_background_cloudy
+ 128
+ 128
+obj_background_cloudy
+ 128
+ 160
+obj_background_cloudy
+ 160
+ 160
+obj_background_cloudy
+ 288
+ 160
+obj_background_cloudy
+ 384
+ 128
+obj_background_cloudy
+ 384
+ 96
+obj_background_cloudy
+ 160
+ 64
+obj_background_cloudy
+ 128
+ 96
+obj_background_cloudy
+ 160
+ 96
+obj_background_cloudy
+ 288
+ 96
+obj_background_cloudy
+ 224
+ 32
+obj_background_cloudy
+ 160
+ 128
+obj_background_cloudy
+ 224
+ 160
+obj_background_cloudy
+ 256
+ 160
+obj_background_cloudy
+ 288
+ 128
+obj_background_cloudy
+ 320
+ 128
+obj_background_cloudy
+ 352
+ 64
+obj_background_cloudy
+ 352
+ 32
+obj_background_cloudy
+ 320
+ 32
+obj_background_cloudy
+ 288
+ 32
+obj_background_cloudy
+ 256
+ 32
+obj_background_cloudy
+ 224
+ 64
+obj_background_cloudy
+ 192
+ 64
+obj_background_cloudy
+ 192
+ 96
+obj_background_cloudy
+ 192
+ 128
+obj_background_cloudy
+ 192
+ 160
+obj_background_cloudy
+ 320
+ 160
+obj_background_cloudy
+ 352
+ 160
+obj_background_cloudy
+ 352
+ 128
+obj_background_cloudy
+ 352
+ 96
+obj_background_cloudy
+ 320
+ 96
+obj_background_cloudy
+ 320
+ 64
+obj_background_cloudy
+ 288
+ 64
+obj_background_cloudy
+ 256
+ 64
+obj_background_cloudy
+ 256
+ 128
+obj_background_cloudy
+ 256
+ 96
+obj_background_cloudy
+ 224
+ 128
+obj_background_cloudy
+ 224
+ 96
+obj_background_cloudy
+ 96
+ 192
+obj_background_cloudy
+ 96
+ 160
+obj_background_cloudy
+ 384
+ 64
+obj_background_cloudy
+ 384
+ 32
+obj_background_cloudy
+ 416
+ 32
+obj_background_cloudy
+ 416
+ 64
+obj_background_cloudy
+ 416
+ 96
+obj_background_cloudy
+ 416
+ 128
+obj_background_cloudy
+ 96
+ 32
+obj_background_cloudy
+ 96
+ 224
+obj_background_cloudy
+ 128
+ 224
+obj_background_cloudy
+ 128
+ 192
+obj_background_cloudy
+ 160
+ 192
+obj_background_cloudy
+ 160
+ 224
+obj_background_cloudy
+ 192
+ 192
+obj_background_cloudy
+ 224
+ 192
+obj_background_cloudy
+ 256
+ 192
+obj_background_cloudy
+ 288
+ 192
+obj_background_cloudy
+ 352
+ 224
+obj_background_cloudy
+ 320
+ 192
+obj_background_cloudy
+ 352
+ 192
+obj_background_cloudy
+ 384
+ 192
+obj_background_cloudy
+ 416
+ 192
+obj_background_cloudy
+ 384
+ 224
+obj_background_cloudy
+ 416
+ 224
+obj_background_cloudy
+ 480
+ 224
+obj_background_cloudy
+ 448
+ 224
+obj_background_cloudy
+ 448
+ 192
+obj_background_cloudy
+ 480
+ 192
+obj_background_cloudy
+ 480
+ 128
+obj_background_cloudy
+ 480
+ 160
+obj_background_cloudy
+ 448
+ 160
+obj_background_cloudy
+ 448
+ 128
+obj_background_cloudy
+ 448
+ 96
+obj_background_cloudy
+ 448
+ 64
+obj_background_cloudy
+ 448
+ 32
+obj_background_cloudy
+ 480
+ 32
+obj_background_cloudy
+ 480
+ 64
+obj_background_cloudy
+ 480
+ 96
+obj_background_cloudy
+ 512
+ 96
+obj_background_cloudy
+ 512
+ 64
+obj_background_cloudy
+ 512
+ 32
+obj_background_cloudy
+ 544
+ 32
+obj_background_cloudy
+ 576
+ 32
+obj_background_cloudy
+ 576
+ 64
+obj_background_cloudy
+ 544
+ 64
+obj_background_cloudy
+ 544
+ 96
+obj_background_cloudy
+ 576
+ 96
+obj_background_cloudy
+ 608
+ 96
+obj_background_cloudy
+ 608
+ 64
+obj_background_cloudy
+ 608
+ 32
+obj_background_cloudy
+ 608
+ 0
+obj_background_cloudy
+ 576
+ 0
+obj_background_cloudy
+ 544
+ 0
+obj_background_cloudy
+ 512
+ 0
+obj_background_cloudy
+ 480
+ 0
+obj_background_cloudy
+ 448
+ 0
+obj_background_cloudy
+ 416
+ 0
+obj_background_cloudy
+ 384
+ 0
+obj_background_cloudy
+ 352
+ 0
+obj_background_cloudy
+ 320
+ 0
+obj_background_cloudy
+ 288
+ 0
+obj_background_cloudy
+ 256
+ 0
+obj_background_cloudy
+ 224
+ 0
+obj_background_cloudy
+ 192
+ 0
+obj_background_cloudy
+ 160
+ 0
+obj_background_cloudy
+ 128
+ 0
+obj_background_cloudy
+ 96
+ 0
+obj_background_cloudy
+ 64
+ 0
+obj_background_cloudy
+ 32
+ 0
+obj_background_cloudy
+ 0
+ 0
+obj_background_cloudy
+ 0
+ 32
+obj_background_cloudy
+ 32
+ 32
+obj_background_cloudy
+ 64
+ 32
+obj_background_cloudy
+ 32
+ 96
+obj_background_cloudy
+ 0
+ 96
+obj_background_cloudy
+ 0
+ 64
+obj_background_cloudy
+ 32
+ 64
+obj_background_cloudy
+ 64
+ 64
+obj_background_cloudy
+ 64
+ 96
+obj_background_cloudy
+ 64
+ 128
+obj_background_cloudy
+ 32
+ 128
+obj_background_cloudy
+ 0
+ 128
+obj_background_cloudy
+ 0
+ 160
+obj_background_cloudy
+ 32
+ 160
+obj_background_cloudy
+ 64
+ 160
+obj_background_cloudy
+ 64
+ 192
+obj_background_cloudy
+ 32
+ 192
+obj_background_cloudy
+ 0
+ 192
+obj_background_cloudy
+ 0
+ 224
+obj_background_cloudy
+ 32
+ 224
+obj_background_cloudy
+ 64
+ 224
+obj_background_cloudy
+ 0
+ 256
+obj_background_cloudy
+ 32
+ 256
+obj_background_cloudy
+ 64
+ 256
+obj_background_cloudy
+ 96
+ 256
+obj_background_cloudy
+ 128
+ 256
+obj_background_cloudy
+ 160
+ 256
+obj_background_cloudy
+ 192
+ 256
+obj_background_cloudy
+ 192
+ 224
+obj_background_cloudy
+ 320
+ 224
+obj_background_cloudy
+ 288
+ 224
+obj_background_cloudy
+ 256
+ 224
+obj_background_cloudy
+ 224
+ 224
+obj_background_cloudy
+ 224
+ 256
+obj_background_cloudy
+ 256
+ 256
+obj_background_cloudy
+ 288
+ 256
+obj_background_cloudy
+ 320
+ 256
+obj_background_cloudy
+ 352
+ 256
+obj_background_cloudy
+ 384
+ 256
+obj_background_cloudy
+ 416
+ 256
+obj_background_cloudy
+ 448
+ 256
+obj_background_cloudy
+ 480
+ 256
+obj_background_cloudy
+ 512
+ 256
+obj_background_cloudy
+ 512
+ 224
+obj_background_cloudy
+ 512
+ 192
+obj_background_cloudy
+ 512
+ 160
+obj_background_cloudy
+ 512
+ 128
+obj_background_cloudy
+ 544
+ 128
+obj_background_cloudy
+ 576
+ 128
+obj_background_cloudy
+ 576
+ 192
+obj_background_cloudy
+ 576
+ 224
+obj_background_cloudy
+ 576
+ 256
+obj_background_cloudy
+ 544
+ 256
+obj_background_cloudy
+ 544
+ 224
+obj_background_cloudy
+ 544
+ 192
+obj_background_cloudy
+ 544
+ 160
+obj_background_cloudy
+ 576
+ 160
+obj_background_cloudy
+ 608
+ 128
+obj_background_cloudy
+ 608
+ 160
+obj_background_cloudy
+ 608
+ 192
+obj_background_cloudy
+ 608
+ 224
+obj_background_cloudy
+ 608
+ 256
+obj_background_cloudy
+ 608
+ 288
+obj_background_cloudy
+ 576
+ 288
+obj_background_cloudy
+ 544
+ 288
+obj_background_cloudy
+ 384
+ 288
+obj_background_cloudy
+ 352
+ 288
+obj_background_cloudy
+ 0
+ 288
+obj_background_cloudy
+ 32
+ 288
+obj_background_cloudy
+ 64
+ 288
+obj_background_cloudy
+ 96
+ 288
+obj_background_cloudy
+ 128
+ 288
+obj_background_cloudy
+ 160
+ 288
+obj_background_cloudy
+ 192
+ 288
+obj_background_cloudy
+ 224
+ 288
+obj_background_cloudy
+ 256
+ 288
+obj_background_cloudy
+ 288
+ 288
+obj_background_cloudy
+ 320
+ 288
+obj_background_cloudy
+ 0
+ 320
+obj_background_cloudy
+ 32
+ 320
+obj_background_cloudy
+ 64
+ 320
+obj_background_cloudy
+ 96
+ 320
+obj_background_cloudy
+ 128
+ 320
+obj_background_cloudy
+ 160
+ 320
+obj_background_cloudy
+ 192
+ 320
+obj_background_cloudy
+ 224
+ 320
+obj_background_cloudy
+ 256
+ 320
+obj_background_cloudy
+ 288
+ 320
+obj_background_cloudy
+ 320
+ 320
+obj_background_cloudy
+ 352
+ 320
+obj_background_cloudy
+ 384
+ 320
+obj_background_cloudy
+ 416
+ 320
+obj_background_cloudy
+ 416
+ 288
+obj_background_cloudy
+ 448
+ 288
+obj_background_cloudy
+ 480
+ 288
+obj_background_cloudy
+ 512
+ 288
+obj_background_cloudy
+ 448
+ 320
+obj_background_cloudy
+ 544
+ 320
+obj_background_cloudy
+ 576
+ 320
+obj_background_cloudy
+ 608
+ 320
+obj_background_cloudy
+ 0
+ 352
+obj_background_cloudy
+ 32
+ 352
+obj_background_cloudy
+ 64
+ 352
+obj_background_cloudy
+ 96
+ 352
+obj_background_cloudy
+ 128
+ 352
+obj_background_cloudy
+ 160
+ 352
+obj_background_cloudy
+ 192
+ 352
+obj_background_cloudy
+ 224
+ 352
+obj_background_cloudy
+ 256
+ 352
+obj_background_cloudy
+ 288
+ 352
+obj_background_cloudy
+ 320
+ 352
+obj_background_cloudy
+ 352
+ 352
+obj_background_cloudy
+ 384
+ 352
+obj_background_cloudy
+ 416
+ 352
+obj_background_cloudy
+ 448
+ 352
+obj_background_cloudy
+ 480
+ 352
+obj_background_cloudy
+ 480
+ 320
+obj_background_cloudy
+ 512
+ 320
+obj_background_cloudy
+ 512
+ 352
+obj_background_cloudy
+ 544
+ 352
+obj_background_cloudy
+ 576
+ 352
+obj_background_cloudy
+ 608
+ 352
+obj_background_cloudy
+ 0
+ 384
+obj_background_cloudy
+ 64
+ 384
+obj_background_cloudy
+ 96
+ 384
+obj_background_cloudy
+ 128
+ 384
+obj_background_cloudy
+ 160
+ 384
+obj_background_cloudy
+ 192
+ 384
+obj_background_cloudy
+ 224
+ 384
+obj_background_cloudy
+ 256
+ 384
+obj_background_cloudy
+ 288
+ 384
+obj_background_cloudy
+ 320
+ 384
+obj_background_cloudy
+ 352
+ 384
+obj_background_cloudy
+ 448
+ 384
+obj_background_cloudy
+ 480
+ 384
+obj_background_cloudy
+ 512
+ 384
+obj_background_cloudy
+ 544
+ 384
+obj_background_cloudy
+ 576
+ 384
+obj_background_cloudy
+ 608
+ 384
+obj_background_cloudy
+ 160
+ 416
+obj_background_cloudy
+ 192
+ 416
+obj_background_cloudy
+ 224
+ 416
+obj_background_cloudy
+ 256
+ 416
+obj_background_cloudy
+ 288
+ 416
+obj_background_cloudy
+ 320
+ 416
+obj_background_cloudy
+ 352
+ 416
+obj_background_cloudy
+ 384
+ 416
+obj_background_cloudy
+ 384
+ 384
+obj_background_cloudy
+ 416
+ 384
+obj_background_cloudy
+ 416
+ 416
+obj_background_cloudy
+ 448
+ 416
+obj_background_cloudy
+ 480
+ 416
+obj_background_cloudy
+ 512
+ 416
+obj_background_cloudy
+ 544
+ 416
+obj_background_cloudy
+ 576
+ 416
+obj_background_cloudy
+ 608
+ 416
+obj_background_cloudy
+ 608
+ 448
+obj_background_cloudy
+ 576
+ 448
+obj_background_cloudy
+ 544
+ 448
+obj_background_cloudy
+ 512
+ 448
+obj_background_cloudy
+ 480
+ 448
+obj_background_cloudy
+ 448
+ 448
+obj_background_cloudy
+ 416
+ 448
+obj_background_cloudy
+ 384
+ 448
+obj_background_cloudy
+ 256
+ 480
+obj_background_cloudy
+ 256
+ 448
+obj_background_cloudy
+ 320
+ 448
+obj_background_cloudy
+ 352
+ 448
+obj_background_cloudy
+ 288
+ 448
+obj_background_cloudy
+ 224
+ 448
+obj_background_cloudy
+ 192
+ 448
+obj_background_cloudy
+ 160
+ 448
+obj_block1
+ 0
+ 416
+obj_block1
+ 32
+ 416
+obj_block1
+ 64
+ 416
+obj_block1
+ 96
+ 416
+obj_block1
+ 128
+ 416
+obj_block2
+ 128
+ 448
+obj_block2
+ 96
+ 448
+obj_block2
+ 64
+ 448
+obj_block2
+ 32
+ 448
+obj_block2
+ 0
+ 448
+obj_editor_player
+ 32
+ 384
+obj_dummy
+ 0
+ 0
+obj_dummy
+ 0
+ 0
+obj_dummy
+ 0
+ 0
