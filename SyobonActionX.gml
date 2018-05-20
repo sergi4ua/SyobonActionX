@@ -660,19 +660,9 @@ var pressed;
 
 // SAVE FILE DIALOG
 
-wd_save_dialog_set_caption("Save level...");
-wd_save_dialog_set_filter("Syobon Action X level files (*.sax)|*.sax");
-wd_save_dialog_set_extension("sax");
-wd_save_dialog_set_option(wd_fo_overwriteprompt,true);
-
-if(wd_save_dialog_show() == true)
-{
-    filename = wd_save_dialog_get_file();
-}
-else
-{
+filename = get_save_filename("Syobon Action X Level Files (*.sax)|*.sax","1-1.sax");
+if(filename == "")
     exit;
-}
 
 // deactivate objects that not needed
 
@@ -765,30 +755,10 @@ var iterator;
 
 instance_create(0,0,obj_hourglass);
 
-wd_open_dialog_set_caption("Open level...");
-wd_open_dialog_set_filter("Syobon Action X level file (.sax)|*.sax");
-if(wd_open_dialog_show() == true)
-{
-    filename = wd_open_dialog_get_file();
-    wd_message_set_text("Warning! All unsaved changes will be lost! Are you sure you want to continue?");
-    if(wd_message_show(wd_mk_warning,wd_mb_yes,wd_mb_no,wd_mb_none) == wd_mb_no )
-    {
-        with(obj_hourglass)
-        {
-            instance_destroy();
-        }
-        exit;
-    }
-}
-else
-{
-    with(obj_hourglass)
-    {
-        instance_destroy();
-    }
+filename = get_open_filename("Syobon Action X levels (*.sax)|*.sax", "1-1.sax");
+if(filename == "")
     exit;
-}
-
+    
 // deactivate the editor objects and clear the room
 instance_deactivate_object(obj_cursor);
 instance_deactivate_object(obj_editor_controller);
@@ -931,6 +901,10 @@ if(ini_read_real("Options","ForceRealFullscreen",0) == 1)
         game_end();
     }  
 }
+if(ini_read_real("Options","ForceFullscreen",0) == 1)
+{
+    window_set_fullscreen(true);
+}
 ini_close()
 
 #define load_level
@@ -953,15 +927,18 @@ var LEVEL_OBJECTCOUNT; // var contains the total number of objects in the level
 var LEVEL_OBJECTNAME;
 var LEVEL_OBJECTX;
 var LEVEL_OBJECTY;
-
-var iterator;
-
 // open file dialog
 
 instance_create(0,0,obj_hourglass);
 
-file = file_text_open_read(filename);
+if(!file_exists(filename))
+{
+    wd_message_set_text("couldn't open: " + filename);
+    wd_message_show(wd_mk_error, wd_mb_ok,wd_mb_none,wd_mb_none);
+    game_end();
+}
 
+file = file_text_open_read(filename);
 // get the level version
 
 LEVEL_VERSION = file_text_read_string(file);
@@ -1028,5 +1005,6 @@ for(sdata = 0; sdata < 4; sdata+=1)
     }
 
 show_debug_message("fluttershy says yay!")
+
 }
 
