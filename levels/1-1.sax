@@ -8,7 +8,25 @@ null
  0
  0
  0
- 370
+ 382
+obj_background_spiky
+ 608
+ 390
+obj_background_spiky
+ 832
+ 390
+obj_background_spiky
+ 1472
+ 390
+obj_background_spiky
+ 2528
+ 390
+obj_background_spiky
+ 4000
+ 390
+obj_background_castle
+ 4128
+ 326
 obj_block1
  0
  416
@@ -234,9 +252,6 @@ obj_block1
 obj_block1
  1024
  416
-obj_background_spiky
- 608
- 384
 obj_fakepipea
  640
  320
@@ -245,9 +260,6 @@ obj_fakepipeb
  352
 obj_fakepipeb
  640
- 384
-obj_background_spiky
- 832
  384
 obj_fakepipea
  928
@@ -396,9 +408,6 @@ obj_block2
 obj_block2
  1920
  448
-obj_background_spiky
- 1472
- 384
 obj_brick_unbreakable
  1472
  288
@@ -549,9 +558,6 @@ obj_editor_brick_breaktouch
 obj_editor_brick_breaktouch
  2528
  416
-obj_background_spiky
- 2528
- 384
 obj_block1
  2560
  416
@@ -1104,11 +1110,41 @@ obj_block0
 obj_block0
  3968
  384
-obj_background_spiky
- 4000
+obj_editor_player
+ 32
  384
-obj_background_castle
- 4128
+obj_editor_invcoin
+ 1824
+ 320
+obj_editor_invcoin
+ 2880
+ 224
+obj_editor_invcoin
+ 2912
+ 320
+obj_editor_invcoin
+ 2944
+ 320
+obj_editor_invcoin
+ 2976
+ 320
+obj_editor_invcoin
+ 3008
+ 320
+obj_editor_invcoin
+ 3040
+ 320
+obj_editor_invcoin
+ 3776
+ 288
+obj_editor_invcoin
+ 3808
+ 288
+obj_editor_invcoin
+ 3776
+ 192
+obj_editor_invcoin
+ 3840
  320
 obj_dummy
  0

@@ -8,1465 +8,1144 @@ null
  0
  0
  0
- 489
-obj_checkpoint
+ 382
+obj_background_spiky
+ 608
+ 390
+obj_background_spiky
+ 832
+ 390
+obj_background_spiky
+ 1472
+ 390
+obj_background_spiky
+ 2528
+ 390
+obj_background_spiky
+ 4000
+ 390
+obj_background_castle
+ 4128
+ 326
+obj_block1
+ 0
+ 416
+obj_block1
+ 192
+ 416
+obj_block1
+ 224
+ 416
+obj_block1
+ 256
+ 416
+obj_block1
+ 288
+ 416
+obj_block1
+ 320
+ 416
+obj_block1
+ 608
+ 416
+obj_block1
+ 576
+ 416
+obj_block1
+ 544
+ 416
+obj_block1
+ 352
+ 416
+obj_block1
+ 384
+ 416
+obj_block1
+ 416
+ 416
+obj_block1
+ 448
+ 416
+obj_block1
+ 480
+ 416
+obj_block1
+ 512
+ 416
+obj_block2
+ 0
+ 448
+obj_block2
+ 32
+ 448
+obj_block2
+ 64
+ 448
+obj_block2
+ 96
+ 448
+obj_block2
+ 128
+ 448
+obj_block2
+ 160
+ 448
+obj_block2
+ 192
+ 448
+obj_block2
+ 224
+ 448
+obj_block2
+ 256
+ 448
+obj_block2
+ 288
+ 448
+obj_block2
+ 320
+ 448
+obj_block2
+ 352
+ 448
+obj_block2
+ 384
+ 448
+obj_block2
+ 416
+ 448
+obj_block2
+ 448
+ 448
+obj_block2
+ 480
+ 448
+obj_block2
+ 512
+ 448
+obj_block2
+ 544
+ 448
+obj_block2
+ 576
+ 448
+obj_block2
+ 608
+ 448
+obj_background_hills
+ 32
+ 352
+obj_block1
+ 32
+ 416
+obj_block1
+ 64
+ 416
+obj_block1
+ 96
+ 416
+obj_block1
+ 128
+ 416
+obj_block1
+ 160
+ 416
+obj_editor_trollbonus
+ 256
+ 288
+obj_editor_bonuscoin
+ 416
+ 288
+obj_editor_bonuscoin
+ 480
+ 288
+obj_editor_bonuscoin
+ 448
+ 160
+obj_brick_unbreakable
+ 384
+ 288
+obj_brick_unbreakable
+ 448
+ 288
+obj_brick_unbreakable
+ 512
+ 288
+obj_background_bigcloud
+ 160
+ 96
+obj_block1
  640
- 64
-obj_block0
- 0
  416
-obj_block0
- 32
+obj_block1
+ 672
  416
-obj_block0
- 64
+obj_block1
+ 704
  416
-obj_block0
+obj_block1
+ 736
+ 416
+obj_block1
+ 768
+ 416
+obj_block2
+ 640
+ 448
+obj_block2
+ 672
+ 448
+obj_block2
+ 704
+ 448
+obj_block2
+ 736
+ 448
+obj_block2
+ 768
+ 448
+obj_block2
+ 800
+ 448
+obj_block2
+ 832
+ 448
+obj_block2
+ 864
+ 448
+obj_block2
+ 896
+ 448
+obj_block2
+ 928
+ 448
+obj_block2
+ 960
+ 448
+obj_block2
+ 992
+ 448
+obj_block2
+ 1024
+ 448
+obj_block1
+ 800
+ 416
+obj_block1
+ 832
+ 416
+obj_block1
+ 864
+ 416
+obj_block1
+ 896
+ 416
+obj_block1
+ 928
+ 416
+obj_block1
+ 960
+ 416
+obj_block1
+ 992
+ 416
+obj_block1
+ 1024
+ 416
+obj_fakepipea
+ 640
+ 320
+obj_fakepipeb
+ 640
+ 352
+obj_fakepipeb
+ 640
+ 384
+obj_fakepipea
+ 928
+ 320
+obj_fakepipeb
+ 928
+ 352
+obj_fakepipeb
+ 928
+ 384
+obj_background_bigcloud
+ 704
  96
- 416
-obj_block0
- 128
- 416
-obj_block0
- 160
- 416
-obj_block0
- 0
- 448
-obj_block0
- 32
- 448
-obj_block0
- 64
- 448
-obj_block0
- 96
- 448
-obj_block0
- 128
- 448
-obj_block0
- 160
- 448
-obj_block0
- 192
- 448
-obj_block0
- 224
- 448
-obj_block0
- 256
- 448
-obj_block0
- 288
- 448
-obj_block0
- 320
- 416
-obj_block0
+obj_background_hills
+ 1056
  352
+obj_block1
+ 1056
  416
-obj_block0
- 384
+obj_block1
+ 1088
  416
-obj_block0
+obj_block1
+ 1120
  416
+obj_block1
+ 1152
  416
-obj_block0
- 320
+obj_block1
+ 1184
+ 416
+obj_block1
+ 1216
+ 416
+obj_block1
+ 1248
+ 416
+obj_block2
+ 1056
  448
-obj_block0
- 352
+obj_block2
+ 1088
  448
-obj_block0
- 384
+obj_block2
+ 1120
  448
-obj_block0
+obj_block2
+ 1152
+ 448
+obj_block2
+ 1184
+ 448
+obj_block2
+ 1216
+ 448
+obj_block2
+ 1248
+ 448
+obj_block2
+ 1376
+ 448
+obj_block2
+ 1408
+ 448
+obj_block2
+ 1440
+ 448
+obj_block2
+ 1472
+ 448
+obj_block2
+ 1504
+ 448
+obj_block2
+ 1536
+ 448
+obj_block2
+ 1568
+ 448
+obj_block2
+ 1600
+ 448
+obj_block1
+ 1376
  416
- 448
-obj_block0
- 448
- 448
-obj_block0
- 480
- 448
-obj_block0
- 512
- 448
-obj_block0
- 576
+obj_block1
+ 1408
  416
-obj_block0
- 608
+obj_block1
+ 1440
  416
-obj_block0
- 608
+obj_block1
+ 1472
+ 416
+obj_block1
+ 1504
+ 416
+obj_block1
+ 1536
+ 416
+obj_block1
+ 1568
+ 416
+obj_block1
+ 1600
+ 416
+obj_block1
+ 1632
+ 416
+obj_block1
+ 1664
+ 416
+obj_block1
+ 1696
+ 416
+obj_block1
+ 1728
+ 416
+obj_block1
+ 1760
+ 416
+obj_block1
+ 1792
+ 416
+obj_block1
+ 1920
+ 416
+obj_block2
+ 1632
  448
-obj_block0
- 576
+obj_block2
+ 1664
  448
-obj_block0
- 544
+obj_block2
+ 1696
  448
-obj_block0
+obj_block2
+ 1728
  448
- 416
-obj_block0
- 480
- 416
-obj_block0
- 512
- 416
-obj_block0
- 544
- 416
-obj_block0
- 192
- 416
-obj_block0
- 224
- 416
-obj_block0
- 256
- 416
-obj_block0
+obj_block2
+ 1760
+ 448
+obj_block2
+ 1792
+ 448
+obj_block2
+ 1920
+ 448
+obj_brick_unbreakable
+ 1472
  288
- 416
-obj_block0
- 0
- 384
-obj_block0
- 0
- 352
-obj_block0
- 0
- 320
-obj_block0
- 0
+obj_brick_unbreakable
+ 1536
  288
-obj_block0
- 32
+obj_editor_bonuscoin
+ 1504
  288
-obj_block0
- 64
- 288
-obj_block0
- 96
- 288
-obj_block0
- 128
- 288
-obj_block0
+obj_brick_unbreakable
+ 1664
  160
- 288
-obj_block0
- 192
- 288
-obj_block0
- 224
- 288
-obj_block0
- 256
- 288
-obj_block0
- 288
- 288
-obj_block0
- 320
- 288
-obj_block0
- 352
- 288
-obj_block0
- 384
- 288
-obj_block0
- 416
- 288
-obj_block0
- 448
- 288
-obj_block0
- 480
- 288
-obj_block0
- 608
- 384
-obj_block0
- 608
- 352
-obj_block0
- 608
- 320
-obj_block0
- 608
- 288
-obj_block0
- 608
- 256
-obj_block0
- 608
- 224
-obj_block0
- 608
- 192
-obj_block0
- 608
+obj_brick_unbreakable
+ 1696
  160
-obj_block0
- 608
- 128
-obj_block0
- 608
- 96
-obj_block0
- 608
- 0
-obj_block0
- 576
- 0
-obj_block0
- 544
- 0
-obj_block0
- 512
- 0
-obj_block0
- 448
- 0
-obj_block0
- 352
- 0
-obj_block0
- 320
- 0
-obj_block0
- 288
- 0
-obj_block0
- 256
- 0
-obj_block0
- 224
- 0
-obj_block0
- 192
- 0
-obj_block0
+obj_brick_unbreakable
+ 1728
  160
- 0
-obj_block0
- 128
- 0
-obj_block0
- 96
- 0
-obj_block0
- 64
- 0
-obj_block0
- 32
- 0
-obj_block0
- 0
- 0
-obj_block0
- 384
- 0
-obj_block0
- 416
- 0
-obj_block0
- 480
- 0
-obj_block0
- 0
- 32
-obj_block0
- 0
- 256
-obj_block0
- 0
- 224
-obj_block0
- 0
- 192
-obj_block0
- 0
- 160
-obj_block0
- -32
- 160
-obj_block0
- -32
- 128
-obj_block0
- -32
- 96
-obj_block0
- -32
- 64
-obj_block0
- 0
- 64
-obj_block0
- 0
- 96
-obj_block0
- 0
- 128
-obj_editor_player
- 64
- 381
-obj_spike_bottom
- 160
- 320
-obj_spike_bottom
- 192
- 320
-obj_spike_bottom
- 224
- 320
-obj_spike_bottom
- 256
- 320
-obj_spike_bottom
- 288
- 320
-obj_spike_bottom
- 320
- 320
-obj_spike_bottom
- 352
- 320
-obj_spike_bottom
- 384
- 320
-obj_spike_bottom
- 416
- 320
-obj_spike_bottom
- 448
- 320
-obj_spike_bottom
- 480
- 320
-obj_spike_top
- 160
- 256
-obj_spike_top
- 192
- 256
-obj_spike_top
- 224
- 256
-obj_spike_top
- 256
- 256
-obj_spike_top
- 288
- 256
-obj_spike_top
- 320
- 256
-obj_spike_top
- 352
- 256
-obj_spike_top
- 384
- 256
-obj_spike_top
- 416
- 256
-obj_spike_top
- 448
- 256
-obj_spike_top
- 480
- 256
-obj_editor_invcoin
- 512
- 288
-obj_block0
- 480
- 224
-obj_block0
- 320
- 224
-obj_block0
- 160
- 224
 obj_editor_brick_breaktouch
- 288
- 224
-obj_editor_invcoin
- 32
- 192
-obj_editor_invcoin
- 64
- 96
-obj_block0
- 128
- 96
-obj_block0
- 96
- 96
-obj_block0
- 640
- 0
-obj_block0
- 672
- 0
-obj_block0
- 704
- 0
-obj_block0
- 736
- 0
-obj_block0
- 768
- 0
-obj_block0
- 800
- 0
-obj_block0
- 832
- 0
-obj_block0
- 864
- 0
-obj_block0
- 896
- 0
-obj_block0
- 928
- 0
-obj_block0
- 960
- 0
-obj_block0
- 992
- 0
-obj_block0
- 1024
- 0
-obj_block0
- 1056
- 0
-obj_block0
- 1088
- 0
-obj_block0
- 1120
- 0
-obj_block0
- 1152
- 0
-obj_block0
- 1184
- 0
-obj_block0
- 1216
- 0
-obj_block0
- 1248
- 0
-obj_block0
- 704
- 32
-obj_block0
- 704
- 64
-obj_block0
- 704
- 96
-obj_block0
- 704
- 128
-obj_block0
- 704
- 160
-obj_block0
- 704
- 192
-obj_block0
- 704
- 224
-obj_block0
- 704
- 256
-obj_block0
- 640
- 448
-obj_block0
- 672
- 448
-obj_block0
- 704
- 448
-obj_block0
- 736
- 448
-obj_block0
- 768
- 448
-obj_block0
- 800
- 448
-obj_block0
- 832
- 448
-obj_block0
- 864
- 448
-obj_block0
- 896
- 448
-obj_block0
- 928
- 448
-obj_block0
- 960
- 448
-obj_block0
- 992
- 448
-obj_block0
- 1024
- 448
-obj_block0
- 1056
- 448
-obj_block0
- 1088
- 448
-obj_block0
- 1120
- 448
-obj_block0
- 1152
- 448
-obj_block0
- 1184
- 448
-obj_block0
- 1216
- 448
-obj_block0
- 1248
- 448
-obj_block0
- 1248
- 32
-obj_block0
- 1248
- 160
-obj_block0
- 1248
- 192
-obj_block0
- 1248
- 224
-obj_block0
- 1248
- 256
-obj_block0
- 1248
- 288
-obj_block0
- 1248
- 320
-obj_block0
- 1248
- 352
-obj_block0
- 1248
- 384
-obj_block0
- 1248
- 416
-obj_editor_bonuscoin
- 1216
- 352
-obj_editor_bonuscoin
- 1184
- 352
-obj_editor_bonuscoin
- 1152
- 352
-obj_editor_bonuscoin
- 1120
- 352
-obj_editor_bonuscoin
- 1088
- 352
-obj_editor_bonuscoin
- 1056
- 352
-obj_editor_bonuscoin
- 1024
- 352
-obj_editor_bonuscoin
- 992
- 352
-obj_editor_bonuscoin
- 896
- 352
-obj_editor_bonuscoin
- 928
- 352
-obj_editor_bonuscoin
- 960
- 352
-obj_editor_invcoin
- 736
- 352
-obj_editor_invcoin
- 768
- 352
-obj_editor_invcoin
- 800
- 352
-obj_editor_invcoin
- 832
- 352
-obj_editor_invcoin
- 864
- 352
-obj_editor_invcoin
- 1216
- 256
-obj_editor_invcoin
- 1184
- 256
-obj_editor_invcoin
- 1152
- 256
-obj_editor_invcoin
- 1120
- 256
-obj_editor_invcoin
- 1088
- 256
-obj_editor_invcoin
- 1056
- 256
-obj_editor_invcoin
- 1024
- 256
-obj_editor_invcoin
- 992
- 256
-obj_editor_invcoin
- 960
- 256
-obj_spike_bottom
- 1216
- 32
-obj_spike_bottom
- 1184
- 32
-obj_spike_bottom
- 1152
- 32
-obj_spike_bottom
- 1120
- 32
-obj_spike_bottom
- 1088
- 32
-obj_spike_bottom
- 1056
- 32
-obj_spike_bottom
- 1024
- 32
-obj_spike_bottom
- 992
- 32
-obj_spike_bottom
- 736
- 32
-obj_spike_bottom
- 768
- 32
-obj_spike_bottom
- 800
- 32
-obj_spike_bottom
- 832
- 32
-obj_spike_bottom
- 864
- 32
-obj_spike_bottom
- 896
- 32
-obj_spike_bottom
- 928
- 32
-obj_spike_bottom
- 960
- 32
-obj_spike_top
- 1216
- 416
-obj_spike_top
- 1216
- 320
-obj_block0
- 160
- 96
-obj_block0
- 192
- 96
-obj_block0
- 224
- 96
-obj_block0
- 256
- 96
-obj_block0
- 288
- 96
-obj_block0
- 320
- 96
-obj_block0
- 352
- 96
-obj_block0
- 384
- 96
-obj_block0
- 416
- 96
-obj_block0
- 448
- 96
-obj_block0
- 480
- 96
-obj_block0
- 512
- 96
-obj_block0
- 544
- 96
-obj_block0
- 576
- 96
-obj_editor_solidobject
- 1216
- 160
-obj_editor_solidobject
- 1184
- 160
-obj_editor_solidobject
- 1152
- 160
-obj_coin
- 1248
- 128
-obj_coin
- 1248
- 96
-obj_coin
- 1248
- 64
-obj_block0
- 1280
- 0
-obj_block0
- 1312
- 0
-obj_block0
- 1344
- 0
-obj_block0
- 1376
- 0
-obj_block0
- 1408
- 0
-obj_block0
- 1440
- 0
-obj_block0
- 1472
- 0
-obj_block0
- 1504
- 0
-obj_block0
- 1536
- 0
-obj_block0
- 1568
- 0
-obj_block0
- 1600
- 0
-obj_block0
  1632
- 0
-obj_block0
- 1664
- 0
-obj_block0
- 1696
- 0
-obj_block0
- 1728
- 0
-obj_block0
- 1760
- 0
-obj_block0
- 1792
- 0
-obj_block0
- 1824
- 0
-obj_block0
- 1280
  160
-obj_block0
- 1280
- 192
-obj_block0
- 1280
- 224
-obj_block0
- 1280
- 256
-obj_block0
- 1280
- 288
-obj_block0
- 1312
- 288
-obj_block0
- 1312
- 320
-obj_block0
- 1312
- 352
-obj_block0
- 1312
- 384
-obj_block0
- 1312
- 416
-obj_block0
- 1280
- 320
-obj_block0
- 1280
- 352
-obj_block0
- 1280
- 384
-obj_block0
- 1280
- 416
-obj_block0
- 1280
- 448
-obj_block0
- 1312
- 448
-obj_block0
- 1344
- 448
-obj_block0
- 1376
- 448
-obj_block0
- 1376
- 416
-obj_block0
- 1344
- 416
-obj_block0
- 1344
- 384
-obj_block0
- 1344
- 352
-obj_block0
- 1344
- 288
-obj_block0
- 1344
- 320
-obj_block0
- 1376
- 320
-obj_block0
- 1376
- 352
-obj_block0
- 1376
- 384
-obj_block0
- 1408
- 384
-obj_block0
- 1408
- 352
-obj_block0
- 1440
- 352
-obj_block0
- 1440
- 384
-obj_block0
- 1440
- 416
-obj_block0
- 1408
- 416
-obj_block0
- 1408
- 448
-obj_block0
- 1440
- 448
-obj_block0
- 1472
- 448
-obj_block0
- 1504
- 448
-obj_block0
- 1536
- 448
-obj_block0
- 1568
- 448
-obj_block0
+obj_editor_brick_breaktouch
  1600
- 448
-obj_block0
- 1632
- 448
-obj_block0
- 1664
- 448
-obj_block0
- 1696
- 448
-obj_block0
- 1728
- 448
-obj_block0
- 1760
- 448
-obj_block0
- 1792
- 448
-obj_block0
- 1824
- 32
-obj_block0
- 1824
- 64
-obj_block0
- 1824
- 96
-obj_block0
- 1824
- 128
-obj_block0
- 1824
  160
-obj_block0
- 1824
- 192
-obj_block0
- 1824
- 224
-obj_block0
- 1824
- 256
-obj_block0
- 1824
- 288
-obj_block0
- 1824
- 320
-obj_block0
- 1824
- 352
-obj_block0
- 1824
- 448
-obj_block0
- 1856
- 448
-obj_block0
- 1888
- 448
-obj_block0
+obj_editor_brick_breaktouch
+ 1568
+ 160
+obj_brick_unbreakable
  1920
- 448
-obj_block0
+ 160
+obj_brick_unbreakable
+ 1952
+ 160
+obj_brick_unbreakable
+ 1984
+ 160
+obj_block1
+ 1952
+ 416
+obj_block1
+ 1984
+ 416
+obj_block1
+ 2016
+ 416
+obj_block1
+ 2048
+ 416
+obj_block1
+ 2080
+ 416
+obj_block1
+ 2112
+ 416
+obj_block1
+ 2144
+ 416
+obj_block1
+ 2176
+ 416
+obj_block1
+ 2208
+ 416
+obj_block1
+ 2240
+ 416
+obj_block1
+ 2272
+ 416
+obj_block2
  1952
  448
-obj_block0
+obj_block2
  1984
  448
-obj_block0
+obj_block2
  2016
  448
-obj_block0
- 2016
+obj_block2
+ 2048
+ 448
+obj_block2
+ 2080
+ 448
+obj_block2
+ 2112
+ 448
+obj_block2
+ 2144
+ 448
+obj_block2
+ 2176
+ 448
+obj_block2
+ 2208
+ 448
+obj_block2
+ 2240
+ 448
+obj_block2
+ 2272
+ 448
+obj_brick_unbreakable
+ 1984
+ 288
+obj_background_bigcloud
+ 2144
+ 32
+obj_brick_unbreakable
+ 2144
+ 288
+obj_brick_unbreakable
+ 2176
+ 288
+obj_editor_bonuscoin
+ 2304
+ 288
+obj_editor_bonuscoin
+ 2400
+ 288
+obj_editor_bonuscoin
+ 2496
+ 288
+obj_editor_bonuscoin
+ 2400
+ 160
+obj_editor_brick_breaktouch
+ 2304
  416
-obj_spike_bottom
- 1280
- 32
-obj_spike_bottom
- 1312
- 32
-obj_spike_bottom
- 1344
- 32
-obj_spike_bottom
- 1376
- 32
-obj_spike_bottom
- 1408
- 32
-obj_spike_bottom
- 1440
- 32
-obj_spike_bottom
- 1472
- 32
-obj_spike_bottom
- 1504
- 32
-obj_spike_bottom
- 1536
- 32
-obj_spike_bottom
- 1568
- 32
-obj_spike_bottom
- 1600
- 32
-obj_spike_bottom
- 1632
- 32
-obj_spike_bottom
- 1664
- 32
-obj_spike_bottom
- 1696
- 32
-obj_spike_bottom
- 1728
- 32
-obj_spike_bottom
- 1760
- 32
-obj_spike_bottom
- 1792
- 32
-obj_spike_top
- 2016
+obj_editor_brick_breaktouch
+ 2336
+ 416
+obj_editor_brick_breaktouch
+ 2368
+ 416
+obj_editor_brick_breaktouch
+ 2400
+ 416
+obj_editor_brick_breaktouch
+ 2432
+ 416
+obj_editor_brick_breaktouch
+ 2464
+ 416
+obj_editor_brick_breaktouch
+ 2496
+ 416
+obj_editor_brick_breaktouch
+ 2528
+ 416
+obj_block1
+ 2560
+ 416
+obj_block1
+ 2592
+ 416
+obj_block1
+ 2624
+ 416
+obj_block1
+ 2656
+ 416
+obj_block1
+ 2688
+ 416
+obj_block1
+ 2720
+ 416
+obj_block2
+ 2720
+ 448
+obj_block2
+ 2688
+ 448
+obj_block2
+ 2656
+ 448
+obj_block2
+ 2624
+ 448
+obj_block2
+ 2592
+ 448
+obj_block2
+ 2560
+ 448
+obj_block0
+ 2688
  384
-obj_spike_bottom
+obj_block0
+ 2720
+ 384
+obj_block0
+ 2656
+ 384
+obj_block0
+ 2720
+ 352
+obj_block0
+ 2688
+ 352
+obj_block0
+ 2720
+ 320
+obj_block0
+ 2848
+ 320
+obj_block0
+ 2848
+ 352
+obj_block0
+ 2880
+ 352
+obj_block0
+ 2848
+ 384
+obj_block0
+ 2880
+ 384
+obj_block1
+ 2848
+ 416
+obj_block1
+ 2880
+ 416
+obj_block1
+ 2912
+ 416
+obj_block1
+ 3072
+ 416
+obj_block1
+ 3104
+ 416
+obj_block1
+ 3136
+ 416
+obj_block2
+ 2848
+ 448
+obj_block2
+ 2880
+ 448
+obj_block2
+ 2912
+ 448
+obj_block2
+ 2944
+ 448
+obj_block2
+ 3008
+ 448
+obj_block2
+ 2976
+ 448
+obj_block2
+ 3072
+ 448
+obj_block2
+ 3104
+ 448
+obj_block2
+ 3136
+ 448
+obj_block1
+ 2944
+ 416
+obj_block1
+ 2976
+ 416
+obj_block1
+ 3008
+ 416
+obj_fakepipeb
+ 3072
+ 384
+obj_fakepipeb
+ 3072
+ 352
+obj_fakepipea
+ 3072
+ 320
+obj_brick_unbreakable
+ 3200
+ 288
+obj_brick_unbreakable
+ 3232
+ 288
+obj_brick_unbreakable
+ 3296
+ 288
+obj_background_bigcloud
+ 3360
+ 192
+obj_editor_bonuscoin
+ 3264
+ 288
+obj_fakepipea
+ 3424
+ 352
+obj_fakepipeb
+ 3424
+ 384
+obj_block1
+ 3168
+ 416
+obj_block1
+ 3200
+ 416
+obj_block1
+ 3232
+ 416
+obj_block1
+ 3264
+ 416
+obj_block1
+ 3296
+ 416
+obj_block1
+ 3328
+ 416
+obj_block1
+ 3360
+ 416
+obj_block1
+ 3392
+ 416
+obj_block1
+ 3424
+ 416
+obj_block1
+ 3456
+ 416
+obj_block1
+ 3488
+ 416
+obj_block1
+ 3520
+ 416
+obj_block1
+ 3552
+ 416
+obj_block1
+ 3584
+ 416
+obj_block1
+ 3616
+ 416
+obj_block1
+ 3648
+ 416
+obj_block1
+ 3680
+ 416
+obj_block1
+ 3712
+ 416
+obj_block1
+ 3744
+ 416
+obj_block1
+ 3776
+ 416
+obj_block1
+ 3808
+ 416
+obj_block1
+ 3840
+ 416
+obj_block1
+ 3872
+ 416
+obj_block1
+ 3904
+ 416
+obj_block1
+ 3936
+ 416
+obj_block1
+ 3968
+ 416
+obj_block1
+ 4000
+ 416
+obj_block1
+ 4032
+ 416
+obj_block1
+ 4064
+ 416
+obj_block1
+ 4096
+ 416
+obj_block1
+ 4128
+ 416
+obj_block1
+ 4160
+ 416
+obj_block1
+ 4192
+ 416
+obj_block1
+ 4224
+ 416
+obj_block1
+ 4256
+ 416
+obj_block1
+ 4288
+ 416
+obj_block1
+ 4320
+ 416
+obj_block1
+ 4352
+ 416
+obj_block1
+ 4384
+ 416
+obj_block1
+ 4448
+ 416
+obj_block1
+ 4480
+ 416
+obj_block1
+ 4512
+ 416
+obj_block1
+ 4544
+ 416
+obj_block1
+ 4576
+ 416
+obj_block2
+ 3168
+ 448
+obj_block2
+ 3200
+ 448
+obj_block2
+ 3232
+ 448
+obj_block2
+ 3264
+ 448
+obj_block2
+ 3296
+ 448
+obj_block2
+ 3328
+ 448
+obj_block2
+ 3360
+ 448
+obj_block2
+ 3392
+ 448
+obj_block2
+ 3424
+ 448
+obj_block2
+ 3456
+ 448
+obj_block2
+ 3488
+ 448
+obj_block2
+ 3520
+ 448
+obj_block2
+ 3552
+ 448
+obj_block2
+ 3584
+ 448
+obj_block2
+ 3616
+ 448
+obj_block2
+ 3648
+ 448
+obj_block2
+ 3680
+ 448
+obj_block2
+ 3712
+ 448
+obj_block2
+ 3744
+ 448
+obj_block2
+ 3776
+ 448
+obj_block2
+ 3808
+ 448
+obj_block2
+ 3840
+ 448
+obj_block2
+ 3872
+ 448
+obj_block2
+ 3904
+ 448
+obj_block2
+ 3936
+ 448
+obj_block2
+ 3968
+ 448
+obj_block2
+ 4000
+ 448
+obj_block2
+ 4032
+ 448
+obj_block2
+ 4064
+ 448
+obj_block2
+ 4096
+ 448
+obj_block2
+ 4128
+ 448
+obj_block2
+ 4160
+ 448
+obj_block2
+ 4192
+ 448
+obj_block2
+ 4224
+ 448
+obj_block2
+ 4256
+ 448
+obj_block2
+ 4288
+ 448
+obj_block2
+ 4320
+ 448
+obj_block2
+ 4352
+ 448
+obj_block2
+ 4384
+ 448
+obj_block2
+ 4448
+ 448
+obj_block2
+ 4480
+ 448
+obj_block2
+ 4512
+ 448
+obj_block2
+ 4544
+ 448
+obj_block2
+ 4576
+ 448
+obj_block0
+ 3488
+ 384
+obj_block0
+ 3520
+ 352
+obj_block0
+ 3520
+ 384
+obj_block0
+ 3552
+ 384
+obj_block0
+ 3552
+ 352
+obj_block0
+ 3584
+ 384
+obj_block0
+ 3616
+ 384
+obj_block0
+ 3648
+ 384
+obj_block0
+ 3680
+ 384
+obj_block0
+ 3712
+ 384
+obj_block0
+ 3744
+ 384
+obj_block0
+ 3584
+ 352
+obj_block0
+ 3616
+ 352
+obj_block0
+ 3648
+ 352
+obj_block0
+ 3680
+ 352
+obj_block0
+ 3552
+ 320
+obj_block0
+ 3584
+ 320
+obj_block0
+ 3616
+ 320
+obj_block0
+ 3648
+ 320
+obj_block0
+ 3680
+ 320
+obj_block0
+ 3584
+ 288
+obj_block0
+ 3616
+ 288
+obj_block0
+ 3648
+ 288
+obj_block0
+ 3680
+ 288
+obj_block0
+ 3680
+ 256
+obj_block0
+ 3648
+ 256
+obj_block0
+ 3616
+ 256
+obj_block0
+ 3648
+ 224
+obj_block0
+ 3680
+ 224
+obj_block0
+ 3712
+ 352
+obj_block0
+ 3680
+ 192
+obj_block0
+ 3712
+ 320
+obj_block0
+ 3712
+ 288
+obj_block0
+ 3712
+ 256
+obj_block0
+ 3712
+ 224
+obj_block0
+ 3712
+ 192
+obj_block0
+ 3712
+ 160
+obj_block0
+ 3744
+ 160
+obj_block0
+ 3744
+ 192
+obj_block0
+ 3744
+ 224
+obj_block0
+ 3744
+ 256
+obj_block0
+ 3744
+ 288
+obj_block0
+ 3744
+ 320
+obj_block0
+ 3744
+ 352
+obj_block0
+ 3968
+ 384
+obj_editor_player
+ 32
+ 384
+obj_editor_invcoin
  1824
- 384
-obj_block0
- 1856
- 0
-obj_block0
- 1856
- 0
-obj_block0
- 1888
- 0
-obj_block0
- 1920
- 0
-obj_block0
- 1952
- 0
-obj_block0
- 1984
- 0
-obj_block0
- 2016
- 0
-obj_block0
- 2016
- 0
-obj_block0
- 2048
- 0
-obj_block0
- 2080
- 0
-obj_block0
- 2112
- 0
-obj_block0
- 2144
- 0
-obj_block0
- 2176
- 0
-obj_block0
- 2176
- 0
-obj_block0
- 2208
- 0
-obj_block0
- 2240
- 0
-obj_block0
- 2272
- 0
-obj_block0
- 2304
- 0
-obj_block0
- 2336
- 0
-obj_block0
- 2368
- 0
-obj_block0
- 2400
- 0
-obj_block0
- 2432
- 0
-obj_block0
- 2464
- 0
-obj_block0
- 2496
- 0
-obj_block0
- 2496
- 32
-obj_block0
- 2464
- 32
-obj_block0
- 2464
- 64
-obj_block0
- 2464
- 96
-obj_block0
- 2464
- 160
-obj_block0
- 2464
- 128
-obj_block0
- 2496
- 64
-obj_block0
- 2496
- 96
-obj_block0
- 2496
- 128
-obj_block0
- 2496
- 160
-obj_block0
- 2464
- 256
-obj_block0
- 2464
- 288
-obj_block0
- 2464
- 288
-obj_block0
- 2464
- 448
-obj_block0
- 2464
- 416
-obj_block0
- 2464
- 384
-obj_block0
- 2464
- 352
-obj_block0
- 2464
  320
-obj_block0
- 2496
- 256
-obj_block0
- 2496
- 448
-obj_block0
- 2496
- 416
-obj_block0
- 2496
- 384
-obj_block0
- 2496
- 352
-obj_block0
- 2496
- 320
-obj_block0
- 2496
- 288
-obj_block0
- 2048
- 448
-obj_block0
- 2048
- 416
-obj_block0
- 2080
- 384
-obj_block0
- 2080
- 416
-obj_block0
- 2080
- 448
-obj_block0
- 2112
- 448
-obj_block0
- 2144
- 448
-obj_block0
- 2176
- 448
-obj_block0
- 2208
- 448
-obj_block0
- 2240
- 448
-obj_block0
- 2272
- 448
-obj_block0
- 2304
- 448
-obj_block0
- 2336
- 448
-obj_block0
- 2368
- 448
-obj_block0
- 2400
- 448
-obj_block0
- 2432
- 448
-obj_block0
- 2112
- 416
-obj_block0
- 2144
- 416
-obj_block0
- 2144
- 384
-obj_block0
- 2144
- 352
-obj_block0
- 2176
- 416
-obj_block0
- 2208
- 384
-obj_block0
- 2208
- 352
-obj_block0
- 2208
- 320
-obj_block0
- 2208
- 416
-obj_block0
- 2240
- 416
-obj_block0
- 2272
- 416
-obj_block0
- 2272
- 384
-obj_block0
- 2272
- 352
-obj_block0
- 2272
- 320
-obj_block0
- 2272
- 288
-obj_block0
- 2304
- 416
-obj_block0
- 2336
- 416
-obj_block0
- 2336
- 384
-obj_block0
- 2336
- 352
-obj_block0
- 2336
- 320
-obj_block0
- 2336
- 288
-obj_block0
- 2336
- 256
-obj_block0
- 2368
- 416
-obj_block0
- 2400
- 416
-obj_block0
- 2400
- 256
-obj_block0
- 2400
- 384
-obj_block0
- 2432
- 416
-obj_block0
- 2432
- 384
-obj_block0
- 2432
- 352
-obj_block0
- 2400
- 352
-obj_block0
- 2400
- 320
-obj_block0
- 2400
- 288
-obj_block0
- 2432
- 320
-obj_block0
- 2432
- 288
-obj_block0
- 2432
- 256
-obj_block0
- 2400
- 32
-obj_block0
- 2400
- 64
-obj_block0
- 2400
- 96
-obj_block0
- 2432
- 96
-obj_block0
- 2432
- 64
-obj_block0
- 2432
- 32
-obj_spike_top
- 2080
- 352
-obj_spike_top
- 1984
- 416
-obj_spike_top
- 2144
- 320
-obj_spike_top
- 2208
- 288
-obj_spike_top
- 2272
- 256
-obj_spike_top
- 2336
+obj_editor_invcoin
+ 2880
  224
-obj_spike_top
- 2112
- 384
-obj_spike_top
- 2048
- 384
-obj_spike_top
- 2176
- 384
-obj_spike_top
- 2240
- 384
-obj_spike_top
- 2304
- 384
-obj_spike_top
- 2368
- 384
-obj_block0
- 2048
- 352
-obj_block0
- 2176
+obj_editor_invcoin
+ 2912
+ 320
+obj_editor_invcoin
+ 2944
+ 320
+obj_editor_invcoin
+ 2976
+ 320
+obj_editor_invcoin
+ 3008
+ 320
+obj_editor_invcoin
+ 3040
+ 320
+obj_editor_invcoin
+ 3776
  288
-obj_block0
- 2304
- 224
-obj_coin
- 2432
- 224
-obj_coin
- 2432
+obj_editor_invcoin
+ 3808
+ 288
+obj_editor_invcoin
+ 3776
  192
-obj_coin
- 2432
- 160
-obj_coin
- 2400
- 160
-obj_coin
- 2400
- 128
-obj_coin
- 2400
- 192
-obj_coin
- 2400
- 224
-obj_coin
- 2432
- 128
+obj_editor_invcoin
+ 3840
+ 320
 obj_dummy
  0
  0

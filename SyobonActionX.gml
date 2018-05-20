@@ -927,6 +927,7 @@ var LEVEL_OBJECTCOUNT; // var contains the total number of objects in the level
 var LEVEL_OBJECTNAME;
 var LEVEL_OBJECTX;
 var LEVEL_OBJECTY;
+var music;
 // open file dialog
 
 instance_create(0,0,obj_hourglass);
@@ -1005,6 +1006,8 @@ for(sdata = 0; sdata < 4; sdata+=1)
     }
 
 show_debug_message("fluttershy says yay!")
-
+music = SS_LoadSound("music\" + LEVEL_MUSICFILE);
+global.levelmusic = music;
+sleep(1);
 }
 
