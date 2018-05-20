@@ -661,8 +661,14 @@ var pressed;
 // SAVE FILE DIALOG
 
 filename = get_save_filename("Syobon Action X Level Files (*.sax)|*.sax","1-1.sax");
+
 if(filename == "")
     exit;
+    
+if filename_ext(filename) == ""
+{
+    filename = filename + ".sax";
+}
 
 // deactivate objects that not needed
 
@@ -731,6 +737,12 @@ SS_PlaySound(global.sfx_editorsaved);
 instance_activate_all();
 global.protectlevel = false;
 global.saving = false;
+
+if(instance_exists(obj_hourglass))
+{
+    with(obj_hourglass)
+        instance_destroy();
+}
 
 #define scr_editor_load_level
 {
@@ -1008,6 +1020,5 @@ for(sdata = 0; sdata < 4; sdata+=1)
 show_debug_message("fluttershy says yay!")
 music = SS_LoadSound("music\" + LEVEL_MUSICFILE);
 global.levelmusic = music;
-sleep(1);
 }
 
