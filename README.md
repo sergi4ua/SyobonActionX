@@ -14,8 +14,6 @@ SyobonActionX.exe - main executable
 
 libs/supersound.dll - the SuperSound library
 
-libs/cleanmem.dll - the GC library
-
 config.ini - configuration file
 
 levels/ - level directory
