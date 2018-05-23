@@ -1,6 +1,6 @@
 SERGIOUS_SAX1
 field.ogg
-null
+1-2.sax
 null
 null
 null
@@ -8,25 +8,25 @@ null
  0
  0
  0
- 382
+ 383
 obj_background_spiky
  608
- 390
+ 408
 obj_background_spiky
  832
- 390
+ 408
 obj_background_spiky
  1472
- 390
+ 408
 obj_background_spiky
  2528
- 390
+ 408
 obj_background_spiky
  4000
- 390
+ 408
 obj_background_castle
  4128
- 326
+ 344
 obj_block1
  0
  416
@@ -1146,6 +1146,9 @@ obj_editor_invcoin
 obj_editor_invcoin
  3840
  320
+obj_exit_escape
+ 3968
+ 352
 obj_dummy
  0
  0

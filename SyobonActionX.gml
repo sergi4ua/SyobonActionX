@@ -693,7 +693,7 @@ file_text_writeln(file);
 }
 file_text_write_string(file,global.musicfile);
 file_text_writeln(file);
-file_text_write_string(file,"null");
+file_text_write_string(file,global.nextlevel);
 file_text_writeln(file);
 file_text_write_string(file,"null");
 file_text_writeln(file);
@@ -798,7 +798,7 @@ if(LEVEL_VERSION != "SERGIOUS_SAX1")
     game_end();
 }
 // get the level music filename
-LEVEL_MUSICFILE = file_text_read_string(file);
+global.musicfile = file_text_read_string(file);
 file_text_readln(file);
 //show_message(LEVEL_MUSICFILE);
 // loop
@@ -836,6 +836,10 @@ file_text_close(file);
 instance_activate_all();
 
 view_xview[0] = 0;
+
+if(LEVEL_STRINGDATA[0] == "null")
+    LEVEL_STRINGDATA[0] = "exit";
+global.nextlevel = LEVEL_STRINGDATA[0];
 
 with(obj_hourglass)
 {   
@@ -917,7 +921,11 @@ if(ini_read_real("Options","ForceFullscreen",0) == 1)
 {
     window_set_fullscreen(true);
 }
+global.lvltoload = ini_read_string("Universe","StartupLevel","1-1.sax");
+
 ini_close()
+
+
 
 #define load_level
 // loads level file created in the level editor
@@ -1013,12 +1021,15 @@ with(obj_hourglass)
 // copy local vars intro level globals
 for(sdata = 0; sdata < 4; sdata+=1)
     {
-        global.LEVEL_STRING[sdata] = LEVEL_STRINGDATA;
-        global.LEVEL_REAL[sdata] = LEVEL_REALDATA;        
+        global.LEVEL_STRING[sdata] = LEVEL_STRINGDATA[sdata];
+        global.LEVEL_REAL[sdata] = LEVEL_REALDATA[sdata];        
     }
 
-show_debug_message("fluttershy says yay!")
-music = SS_LoadSound("music\" + LEVEL_MUSICFILE);
+global.nextlvl = LEVEL_STRINGDATA[0];
+    
+SS_FreeSound(global.levelmusic);
+global.levelmusic = 0;
+music = SS_LoadSound("music\" + LEVEL_MUSICFILE,1);
 global.levelmusic = music;
 }
 
