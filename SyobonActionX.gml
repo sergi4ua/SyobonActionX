@@ -695,13 +695,13 @@ file_text_write_string(file,global.musicfile);
 file_text_writeln(file);
 file_text_write_string(file,global.nextlevel);
 file_text_writeln(file);
-file_text_write_string(file,"null");
+file_text_write_string(file,global.levelmsg);
 file_text_writeln(file);
 file_text_write_string(file,"null");
 file_text_writeln(file);
 file_text_write_string(file,"null");
 file_text_writeln(file);
-file_text_write_real(file,0);
+file_text_write_real(file,global.level_background);
 file_text_writeln(file);
 file_text_write_real(file,0);
 file_text_writeln(file);
@@ -840,6 +840,23 @@ view_xview[0] = 0;
 if(LEVEL_STRINGDATA[0] == "null")
     LEVEL_STRINGDATA[0] = "exit";
 global.nextlevel = LEVEL_STRINGDATA[0];
+
+switch(LEVEL_REALDATA[0])
+{
+    case 0:
+        background_color = make_color_rgb(160,180,250);
+    break;
+        
+    case 1:
+        background_color = c_black;
+    break;
+        
+    default:
+        background_color = make_color_rgb(160,180,250);
+    break;
+}
+
+global.levelmsg = LEVEL_STRINGDATA[1];
 
 with(obj_hourglass)
 {   
@@ -1031,5 +1048,8 @@ SS_FreeSound(global.levelmusic);
 global.levelmusic = 0;
 music = SS_LoadSound("music\" + LEVEL_MUSICFILE,1);
 global.levelmusic = music;
+
+global.levelmsg = LEVEL_STRINGDATA[1];
+global.level_background = LEVEL_REALDATA[0];
 }
 

@@ -8,25 +8,25 @@ null
  0
  0
  0
- 383
+ 393
 obj_background_spiky
  608
- 408
+ 414
 obj_background_spiky
  832
- 408
+ 414
 obj_background_spiky
  1472
- 408
+ 414
 obj_background_spiky
  2528
- 408
+ 414
 obj_background_spiky
  4000
- 408
+ 414
 obj_background_castle
  4128
- 344
+ 350
 obj_block1
  0
  416
@@ -152,9 +152,6 @@ obj_block1
  416
 obj_editor_trollbonus
  256
- 288
-obj_editor_bonuscoin
- 416
  288
 obj_editor_bonuscoin
  480
@@ -1149,6 +1146,39 @@ obj_editor_invcoin
 obj_exit_escape
  3968
  352
+obj_editor_mushroom
+ 416
+ 288
+obj_editor_invcoin
+ 416
+ 320
+obj_editor_goomba
+ 288
+ 384
+obj_editor_goomba
+ 448
+ 384
+obj_editor_goomba
+ 512
+ 384
+obj_editor_goomba
+ 736
+ 384
+obj_editor_goomba
+ 864
+ 384
+obj_pswitch
+ 192
+ 384
+obj_pswitch
+ 192
+ 384
+obj_pswitch
+ 192
+ 384
+obj_pswitch
+ 192
+ 384
 obj_dummy
  0
  0
