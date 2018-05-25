@@ -1,0 +1,12 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=syobonhelp.chm
+Contents file=syobonhelp.hhc
+Default topic=main_page.html
+Display compile progress=No
+Full-text search=Yes
+Index file=syobonhelp.hhk
+Language=0x419 Russian
+Title=Syobon Action X
+
+[INFOTYPES]

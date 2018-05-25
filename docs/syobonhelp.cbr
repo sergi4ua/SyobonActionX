@@ -1,0 +1,21 @@
+[hhp]
+Compatibility=1.1 or later
+Compiled file=syobonhelp.chm
+Contents file=syobonhelp.hhc
+Default topic=main_page.html
+Display compile progress=No
+Index file=syobonhelp.hhk
+Language=0x419 Russian
+Title=Syobon Action X
+[/hhp]
+[builder]
+Page Count=0
+Address Count=0
+Index Count=0
+Start Index=0
+[/builder]
+[contents]
+pt0=Welcome to Syobon Action X!
+pa0=main_page.html
+pi0=More
+[/contents]
