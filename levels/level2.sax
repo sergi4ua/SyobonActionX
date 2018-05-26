@@ -1,0 +1,260 @@
+SERGIOUS_SAX1
+dungeon.ogg
+exit
+No message to show.
+null
+null
+ 1
+ 0
+ 0
+ 0
+ 83
+obj_background_castle
+ 576
+ 320
+obj_block0
+ 0
+ 0
+obj_block0
+ 128
+ 0
+obj_block0
+ 160
+ 0
+obj_block0
+ 192
+ 0
+obj_block0
+ 224
+ 0
+obj_block0
+ 256
+ 0
+obj_block0
+ 288
+ 0
+obj_block0
+ 320
+ 0
+obj_block0
+ 352
+ 0
+obj_block0
+ 384
+ 0
+obj_block0
+ 416
+ 0
+obj_block0
+ 448
+ 0
+obj_block0
+ 480
+ 0
+obj_block0
+ 512
+ 0
+obj_block0
+ 544
+ 0
+obj_block0
+ 576
+ 0
+obj_block0
+ 608
+ 0
+obj_block0
+ 640
+ 0
+obj_block0
+ 0
+ 32
+obj_block0
+ 0
+ 64
+obj_block0
+ 0
+ 96
+obj_block0
+ 0
+ 128
+obj_block0
+ 0
+ 160
+obj_block0
+ 0
+ 192
+obj_block0
+ 0
+ 256
+obj_block0
+ 0
+ 288
+obj_block0
+ 0
+ 320
+obj_block0
+ 0
+ 352
+obj_block0
+ 0
+ 384
+obj_block0
+ 0
+ 416
+obj_block0
+ 0
+ 448
+obj_block0
+ 0
+ 224
+obj_block1
+ 32
+ 416
+obj_block1
+ 64
+ 416
+obj_block1
+ 96
+ 416
+obj_block1
+ 128
+ 416
+obj_block1
+ 160
+ 416
+obj_block1
+ 192
+ 416
+obj_block1
+ 224
+ 416
+obj_block1
+ 256
+ 416
+obj_block1
+ 288
+ 416
+obj_block1
+ 320
+ 416
+obj_block1
+ 352
+ 416
+obj_block1
+ 384
+ 416
+obj_block1
+ 416
+ 416
+obj_block1
+ 448
+ 416
+obj_block1
+ 480
+ 416
+obj_block1
+ 512
+ 416
+obj_block1
+ 544
+ 416
+obj_block1
+ 576
+ 416
+obj_block1
+ 608
+ 416
+obj_block1
+ 640
+ 416
+obj_block1
+ 672
+ 416
+obj_block2
+ 672
+ 448
+obj_block2
+ 640
+ 448
+obj_block2
+ 608
+ 448
+obj_block2
+ 576
+ 448
+obj_block2
+ 544
+ 448
+obj_block2
+ 512
+ 448
+obj_block2
+ 480
+ 448
+obj_block2
+ 448
+ 448
+obj_block2
+ 416
+ 448
+obj_block2
+ 384
+ 448
+obj_block2
+ 352
+ 448
+obj_block2
+ 320
+ 448
+obj_block2
+ 288
+ 448
+obj_block2
+ 256
+ 448
+obj_block2
+ 224
+ 448
+obj_block2
+ 192
+ 448
+obj_block2
+ 160
+ 448
+obj_block2
+ 128
+ 448
+obj_block2
+ 96
+ 448
+obj_block2
+ 64
+ 448
+obj_block2
+ 32
+ 448
+obj_editor_player
+ 64
+ 0
+obj_coin
+ 224
+ 256
+obj_coin
+ 256
+ 256
+obj_coin
+ 288
+ 256
+obj_exit_escape
+ 512
+ 384
+obj_dummy
+ 0
+ 0
+obj_dummy
+ 0
+ 0
+obj_dummy
+ 0
+ 0

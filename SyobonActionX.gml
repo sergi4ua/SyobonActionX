@@ -857,6 +857,7 @@ switch(LEVEL_REALDATA[0])
 }
 
 global.levelmsg = LEVEL_STRINGDATA[1];
+global.level_background = LEVEL_REALDATA[0];
 
 with(obj_hourglass)
 {   

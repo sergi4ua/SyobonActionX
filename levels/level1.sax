@@ -1,0 +1,1298 @@
+SERGIOUS_SAX1
+field.ogg
+level2.sax
+No message to show.
+null
+null
+ 0
+ 0
+ 0
+ 0
+ 429
+obj_checkpoint
+ 2880
+ 352
+obj_block1
+ 0
+ 416
+obj_block1
+ 32
+ 416
+obj_block1
+ 64
+ 416
+obj_block1
+ 96
+ 416
+obj_block1
+ 352
+ 416
+obj_block1
+ 384
+ 416
+obj_block1
+ 416
+ 416
+obj_block1
+ 448
+ 416
+obj_block1
+ 512
+ 416
+obj_block2
+ 544
+ 448
+obj_block2
+ 512
+ 448
+obj_block2
+ 480
+ 448
+obj_block2
+ 448
+ 448
+obj_block2
+ 416
+ 448
+obj_block2
+ 384
+ 448
+obj_block2
+ 352
+ 480
+obj_block2
+ 320
+ 480
+obj_block1
+ 544
+ 416
+obj_block1
+ 480
+ 416
+obj_block1
+ 0
+ 448
+obj_block1
+ 32
+ 448
+obj_block1
+ 96
+ 448
+obj_block1
+ 128
+ 448
+obj_block1
+ 160
+ 448
+obj_block1
+ 192
+ 448
+obj_block1
+ 224
+ 448
+obj_block1
+ 256
+ 448
+obj_block1
+ 288
+ 448
+obj_block1
+ 288
+ 416
+obj_block1
+ 320
+ 416
+obj_block1
+ 352
+ 448
+obj_block1
+ 320
+ 448
+obj_block1
+ 64
+ 448
+obj_background_hills
+ 128
+ 352
+obj_block1
+ 128
+ 416
+obj_block1
+ 160
+ 416
+obj_block1
+ 192
+ 416
+obj_block1
+ 224
+ 416
+obj_block1
+ 256
+ 416
+obj_editor_bonuscoin
+ 64
+ 288
+obj_editor_bonuscoin
+ 96
+ 288
+obj_editor_bonuscoin
+ 192
+ 288
+obj_editor_bonuscoin
+ 224
+ 288
+obj_editor_bonuscoin
+ 64
+ 160
+obj_editor_bonuscoin
+ 96
+ 160
+obj_editor_bonuscoin
+ 192
+ 160
+obj_editor_bonuscoin
+ 224
+ 160
+obj_editor_bonuscoin
+ 256
+ 288
+obj_editor_bonuscoin
+ 256
+ 160
+obj_editor_player
+ 32
+ 384
+obj_editor_goomba
+ 320
+ 384
+obj_editor_goomba
+ 448
+ 384
+obj_editor_trollbonus
+ 288
+ 288
+obj_editor_invcoin
+ 576
+ 320
+obj_block1
+ 704
+ 416
+obj_block1
+ 736
+ 416
+obj_block1
+ 768
+ 416
+obj_block1
+ 800
+ 416
+obj_block1
+ 832
+ 416
+obj_block1
+ 864
+ 416
+obj_block1
+ 896
+ 416
+obj_block1
+ 928
+ 416
+obj_block1
+ 960
+ 416
+obj_block2
+ 800
+ 448
+obj_block2
+ 768
+ 448
+obj_block2
+ 736
+ 448
+obj_block2
+ 704
+ 448
+obj_block2
+ 928
+ 448
+obj_block2
+ 896
+ 448
+obj_block2
+ 864
+ 448
+obj_block2
+ 832
+ 448
+obj_block2
+ 960
+ 448
+obj_editor_evilcloud
+ 320
+ 64
+obj_editor_evilcloud
+ 640
+ 224
+obj_block0
+ 864
+ 384
+obj_block0
+ 896
+ 384
+obj_block0
+ 928
+ 384
+obj_block0
+ 960
+ 384
+obj_block0
+ 896
+ 352
+obj_block0
+ 928
+ 352
+obj_block0
+ 960
+ 352
+obj_block0
+ 928
+ 320
+obj_block0
+ 960
+ 320
+obj_block0
+ 1056
+ 320
+obj_block0
+ 1056
+ 352
+obj_block0
+ 1056
+ 384
+obj_block0
+ 1088
+ 384
+obj_block0
+ 1088
+ 352
+obj_block0
+ 1120
+ 384
+obj_block1
+ 1056
+ 416
+obj_block1
+ 1088
+ 416
+obj_block1
+ 1120
+ 416
+obj_block1
+ 1216
+ 416
+obj_block1
+ 1248
+ 416
+obj_block1
+ 1280
+ 416
+obj_block1
+ 1312
+ 416
+obj_block1
+ 1344
+ 416
+obj_block1
+ 1376
+ 416
+obj_block1
+ 1408
+ 416
+obj_block1
+ 1440
+ 416
+obj_block2
+ 1056
+ 448
+obj_block2
+ 1088
+ 448
+obj_block2
+ 1248
+ 448
+obj_block2
+ 1280
+ 448
+obj_block2
+ 1216
+ 448
+obj_block2
+ 1120
+ 448
+obj_block2
+ 1312
+ 448
+obj_block2
+ 1344
+ 448
+obj_block2
+ 1376
+ 448
+obj_block2
+ 1408
+ 448
+obj_block2
+ 1440
+ 448
+obj_editor_invcoin
+ 1120
+ 320
+obj_editor_invcoin
+ 1152
+ 320
+obj_editor_invcoin
+ 1184
+ 320
+obj_editor_invcoin
+ 1216
+ 320
+obj_editor_invcoin
+ 1248
+ 320
+obj_editor_invcoin
+ 1280
+ 320
+obj_editor_invcoin
+ 1312
+ 320
+obj_editor_invcoin
+ 1344
+ 320
+obj_editor_invcoin
+ 1376
+ 320
+obj_editor_goomba
+ 1312
+ 384
+obj_editor_goomba
+ 1408
+ 384
+obj_block0
+ 1472
+ 384
+obj_block0
+ 1504
+ 384
+obj_block0
+ 1504
+ 352
+obj_block0
+ 1472
+ 352
+obj_block0
+ 1472
+ 320
+obj_block0
+ 1504
+ 320
+obj_block1
+ 1472
+ 416
+obj_block1
+ 1504
+ 416
+obj_block2
+ 1472
+ 448
+obj_block2
+ 1504
+ 448
+obj_block2
+ 1568
+ 448
+obj_block2
+ 1536
+ 448
+obj_editor_brick_breaktouch
+ 1184
+ 288
+obj_editor_brick_breaktouch
+ 1216
+ 288
+obj_editor_brick_breaktouch
+ 1280
+ 288
+obj_editor_brick_breaktouch
+ 1248
+ 288
+obj_brick_unbreakable
+ 1152
+ 288
+obj_brick_unbreakable
+ 1312
+ 288
+obj_editor_invcoin
+ 1440
+ 320
+obj_editor_invcoin
+ 1408
+ 320
+obj_block1
+ 1696
+ 416
+obj_block1
+ 1728
+ 416
+obj_block2
+ 1600
+ 448
+obj_block2
+ 1632
+ 448
+obj_block2
+ 1664
+ 448
+obj_block2
+ 1696
+ 448
+obj_block2
+ 1728
+ 448
+obj_fakepipeb
+ 1664
+ 384
+obj_fakepipeb
+ 1664
+ 352
+obj_fakepipeb
+ 1664
+ 320
+obj_fakepipeb
+ 1664
+ 288
+obj_fakepipeb
+ 1664
+ 256
+obj_fakepipeb
+ 1664
+ 224
+obj_editor_evilcloud
+ 1536
+ 192
+obj_background_hills
+ 1536
+ 352
+obj_block1
+ 1536
+ 416
+obj_block1
+ 1568
+ 416
+obj_block1
+ 1600
+ 416
+obj_block1
+ 1632
+ 416
+obj_block1
+ 1664
+ 416
+obj_fakepipea
+ 1664
+ 192
+obj_editor_bonuscoin
+ 1632
+ 288
+obj_block1
+ 1760
+ 416
+obj_block1
+ 1792
+ 416
+obj_block1
+ 1824
+ 416
+obj_block1
+ 1856
+ 416
+obj_block1
+ 1888
+ 416
+obj_block1
+ 1920
+ 416
+obj_block1
+ 1952
+ 416
+obj_block1
+ 1984
+ 416
+obj_block1
+ 2016
+ 416
+obj_block1
+ 2048
+ 416
+obj_block1
+ 2080
+ 416
+obj_block1
+ 2112
+ 416
+obj_block2
+ 1760
+ 448
+obj_block2
+ 1792
+ 448
+obj_block2
+ 1824
+ 448
+obj_block2
+ 1856
+ 448
+obj_block2
+ 1888
+ 448
+obj_block2
+ 1920
+ 448
+obj_block2
+ 1952
+ 448
+obj_block2
+ 1984
+ 448
+obj_block2
+ 2016
+ 448
+obj_block2
+ 2048
+ 448
+obj_block2
+ 2080
+ 448
+obj_block2
+ 2112
+ 448
+obj_editor_brick_fall
+ 1856
+ 192
+obj_editor_brick_fall
+ 1888
+ 192
+obj_editor_brick_fall
+ 1920
+ 192
+obj_editor_brick_fall
+ 1952
+ 192
+obj_editor_brick_fall
+ 1984
+ 192
+obj_editor_brick_fall
+ 2016
+ 192
+obj_editor_brick_fall
+ 2048
+ 192
+obj_editor_brick_fall
+ 2080
+ 192
+obj_editor_brick_fall
+ 2112
+ 192
+obj_editor_brick_fall
+ 2144
+ 192
+obj_editor_brick_fall
+ 2176
+ 192
+obj_editor_brick_fall
+ 2208
+ 192
+obj_editor_brick_fall
+ 2240
+ 192
+obj_editor_bonuscoin
+ 1824
+ 288
+obj_editor_invcoin
+ 1760
+ 160
+obj_editor_goomba
+ 1984
+ 384
+obj_editor_goomba
+ 2176
+ 384
+obj_editor_goomba
+ 2272
+ 384
+obj_block1
+ 2144
+ 416
+obj_block1
+ 2176
+ 416
+obj_block1
+ 2208
+ 416
+obj_block1
+ 2240
+ 416
+obj_block1
+ 2272
+ 416
+obj_block1
+ 2304
+ 416
+obj_block1
+ 2336
+ 416
+obj_block1
+ 2368
+ 416
+obj_block1
+ 2400
+ 416
+obj_block1
+ 2432
+ 416
+obj_block1
+ 2464
+ 416
+obj_block1
+ 2496
+ 416
+obj_block1
+ 2528
+ 416
+obj_block1
+ 2560
+ 416
+obj_block2
+ 2144
+ 448
+obj_block2
+ 2176
+ 448
+obj_block2
+ 2208
+ 448
+obj_block2
+ 2240
+ 448
+obj_block2
+ 2272
+ 448
+obj_block2
+ 2304
+ 448
+obj_block2
+ 2336
+ 448
+obj_block2
+ 2368
+ 448
+obj_block2
+ 2400
+ 448
+obj_block2
+ 2432
+ 448
+obj_block2
+ 2464
+ 448
+obj_block2
+ 2496
+ 448
+obj_block2
+ 2528
+ 448
+obj_block2
+ 2560
+ 448
+obj_block0
+ 2432
+ 384
+obj_block0
+ 2464
+ 384
+obj_block0
+ 2496
+ 384
+obj_block0
+ 2528
+ 384
+obj_block0
+ 2560
+ 384
+obj_block0
+ 2464
+ 352
+obj_block0
+ 2496
+ 352
+obj_block0
+ 2528
+ 352
+obj_block0
+ 2560
+ 352
+obj_block0
+ 2560
+ 320
+obj_block0
+ 2528
+ 320
+obj_block0
+ 2496
+ 320
+obj_block0
+ 2528
+ 288
+obj_block0
+ 2560
+ 288
+obj_block0
+ 2656
+ 288
+obj_block0
+ 2656
+ 320
+obj_block0
+ 2656
+ 352
+obj_block0
+ 2656
+ 384
+obj_block0
+ 2688
+ 384
+obj_block0
+ 2688
+ 352
+obj_block0
+ 2688
+ 320
+obj_block0
+ 2720
+ 320
+obj_block0
+ 2720
+ 352
+obj_block0
+ 2720
+ 384
+obj_block1
+ 2656
+ 416
+obj_block1
+ 2688
+ 416
+obj_block1
+ 2720
+ 416
+obj_block1
+ 2752
+ 416
+obj_block1
+ 2784
+ 416
+obj_block1
+ 2816
+ 416
+obj_block1
+ 2848
+ 416
+obj_block1
+ 2912
+ 416
+obj_block1
+ 2944
+ 416
+obj_block2
+ 2656
+ 448
+obj_block2
+ 2688
+ 448
+obj_block2
+ 2720
+ 448
+obj_block2
+ 2752
+ 448
+obj_block2
+ 2784
+ 448
+obj_block2
+ 2816
+ 448
+obj_block2
+ 2848
+ 448
+obj_block2
+ 2880
+ 448
+obj_block2
+ 2912
+ 448
+obj_block2
+ 2944
+ 448
+obj_block2
+ 2976
+ 448
+obj_block2
+ 3008
+ 448
+obj_block2
+ 3040
+ 448
+obj_block2
+ 3072
+ 448
+obj_block2
+ 3104
+ 448
+obj_block0
+ 2880
+ 416
+obj_brick_unbreakable
+ 2976
+ 288
+obj_brick_unbreakable
+ 3008
+ 288
+obj_brick_unbreakable
+ 3040
+ 288
+obj_brick_unbreakable
+ 3072
+ 288
+obj_brick_unbreakable
+ 2944
+ 288
+obj_brick_unbreakable
+ 3136
+ 416
+obj_brick_unbreakable
+ 3168
+ 416
+obj_brick_unbreakable
+ 3200
+ 416
+obj_brick_unbreakable
+ 3232
+ 416
+obj_brick_unbreakable
+ 3264
+ 416
+obj_brick_unbreakable
+ 3296
+ 416
+obj_brick_unbreakable
+ 3328
+ 416
+obj_brick_unbreakable
+ 3360
+ 416
+obj_brick_unbreakable
+ 3392
+ 416
+obj_brick_unbreakable
+ 3424
+ 416
+obj_brick_unbreakable
+ 3136
+ 448
+obj_brick_unbreakable
+ 3168
+ 448
+obj_brick_unbreakable
+ 3200
+ 448
+obj_brick_unbreakable
+ 3232
+ 448
+obj_brick_unbreakable
+ 3264
+ 448
+obj_brick_unbreakable
+ 3296
+ 448
+obj_brick_unbreakable
+ 3328
+ 448
+obj_brick_unbreakable
+ 3360
+ 448
+obj_brick_unbreakable
+ 3392
+ 448
+obj_brick_unbreakable
+ 3424
+ 448
+obj_brick_unbreakable
+ 3456
+ 448
+obj_brick_unbreakable
+ 3488
+ 448
+obj_brick_unbreakable
+ 3552
+ 448
+obj_brick_unbreakable
+ 3520
+ 448
+obj_brick_unbreakable
+ 3456
+ 416
+obj_brick_unbreakable
+ 3488
+ 416
+obj_brick_unbreakable
+ 3520
+ 416
+obj_brick_unbreakable
+ 3552
+ 416
+obj_brick_unbreakable
+ 3168
+ 384
+obj_brick_unbreakable
+ 3200
+ 384
+obj_brick_unbreakable
+ 3232
+ 384
+obj_brick_unbreakable
+ 3264
+ 384
+obj_brick_unbreakable
+ 3296
+ 384
+obj_brick_unbreakable
+ 3328
+ 384
+obj_brick_unbreakable
+ 3360
+ 384
+obj_brick_unbreakable
+ 3392
+ 384
+obj_brick_unbreakable
+ 3424
+ 384
+obj_brick_unbreakable
+ 3456
+ 384
+obj_brick_unbreakable
+ 3488
+ 384
+obj_brick_unbreakable
+ 3520
+ 384
+obj_brick_unbreakable
+ 3488
+ 352
+obj_brick_unbreakable
+ 3456
+ 352
+obj_brick_unbreakable
+ 3424
+ 352
+obj_brick_unbreakable
+ 3392
+ 352
+obj_brick_unbreakable
+ 3360
+ 352
+obj_brick_unbreakable
+ 3328
+ 352
+obj_brick_unbreakable
+ 3296
+ 352
+obj_brick_unbreakable
+ 3264
+ 352
+obj_brick_unbreakable
+ 3232
+ 352
+obj_brick_unbreakable
+ 3200
+ 352
+obj_brick_unbreakable
+ 3232
+ 320
+obj_brick_unbreakable
+ 3264
+ 320
+obj_brick_unbreakable
+ 3296
+ 320
+obj_brick_unbreakable
+ 3328
+ 320
+obj_brick_unbreakable
+ 3360
+ 320
+obj_brick_unbreakable
+ 3392
+ 320
+obj_brick_unbreakable
+ 3424
+ 320
+obj_brick_unbreakable
+ 3456
+ 320
+obj_brick_unbreakable
+ 3424
+ 288
+obj_brick_unbreakable
+ 3392
+ 288
+obj_brick_unbreakable
+ 3360
+ 288
+obj_brick_unbreakable
+ 3328
+ 288
+obj_brick_unbreakable
+ 3296
+ 288
+obj_brick_unbreakable
+ 3264
+ 288
+obj_brick_unbreakable
+ 3392
+ 256
+obj_brick_unbreakable
+ 3360
+ 256
+obj_brick_unbreakable
+ 3328
+ 256
+obj_brick_unbreakable
+ 3296
+ 256
+obj_brick_unbreakable
+ 3328
+ 224
+obj_brick_unbreakable
+ 3360
+ 224
+obj_brick_unbreakable
+ 3328
+ 192
+obj_brick_unbreakable
+ 3360
+ 192
+obj_pswitch
+ 3360
+ 160
+obj_pswitch
+ 3360
+ 160
+obj_pswitch
+ 3360
+ 160
+obj_pswitch
+ 3360
+ 160
+obj_background_hills
+ 2976
+ 352
+obj_block1
+ 2976
+ 416
+obj_block1
+ 3008
+ 416
+obj_block1
+ 3040
+ 416
+obj_block1
+ 3072
+ 416
+obj_block1
+ 3104
+ 416
+obj_block0
+ 3584
+ 416
+obj_block0
+ 3616
+ 416
+obj_block0
+ 3648
+ 416
+obj_block0
+ 3680
+ 416
+obj_block0
+ 3712
+ 416
+obj_block0
+ 3744
+ 416
+obj_block0
+ 3616
+ 288
+obj_block0
+ 3648
+ 288
+obj_block0
+ 3680
+ 288
+obj_block0
+ 3712
+ 288
+obj_block0
+ 3744
+ 288
+obj_editor_brick_fall
+ 3712
+ 320
+obj_editor_brick_fall
+ 3712
+ 352
+obj_editor_brick_fall
+ 3712
+ 384
+obj_block0
+ 3776
+ 288
+obj_block0
+ 3808
+ 288
+obj_block0
+ 3840
+ 288
+obj_block0
+ 3872
+ 288
+obj_block0
+ 3776
+ 416
+obj_block0
+ 3808
+ 416
+obj_block0
+ 3840
+ 416
+obj_block0
+ 3872
+ 416
+obj_block0
+ 3904
+ 416
+obj_block0
+ 3936
+ 416
+obj_block0
+ 3968
+ 416
+obj_block0
+ 4000
+ 416
+obj_block0
+ 4032
+ 416
+obj_block0
+ 4032
+ 384
+obj_block0
+ 4064
+ 352
+obj_block0
+ 4096
+ 320
+obj_block0
+ 4128
+ 320
+obj_block0
+ 4160
+ 320
+obj_block0
+ 4128
+ 288
+obj_editor_invcoin
+ 4160
+ 192
+obj_block0
+ 4192
+ 320
+obj_block0
+ 4192
+ 352
+obj_block0
+ 4192
+ 384
+obj_block0
+ 4192
+ 416
+obj_block0
+ 4224
+ 416
+obj_block0
+ 4256
+ 416
+obj_block0
+ 4288
+ 416
+obj_block0
+ 4320
+ 416
+obj_block0
+ 4320
+ 448
+obj_exit_escape
+ 4288
+ 384
+obj_block0
+ 3712
+ 256
+obj_block0
+ 3712
+ 192
+obj_block0
+ 3712
+ 160
+obj_block0
+ 3712
+ 128
+obj_block0
+ 3712
+ 96
+obj_block0
+ 3712
+ 64
+obj_block0
+ 3712
+ 32
+obj_block0
+ 3712
+ 0
+obj_block0
+ 3712
+ 224
+obj_brick_fall3
+ 384
+ 160
+obj_brick_fall3
+ 2304
+ 192
+obj_dummy
+ 0
+ 0
+obj_dummy
+ 0
+ 0
+obj_dummy
+ 0
+ 0
