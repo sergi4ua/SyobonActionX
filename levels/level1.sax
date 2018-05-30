@@ -8,7 +8,7 @@ null
  0
  0
  0
- 429
+ 430
 obj_checkpoint
  2880
  352
@@ -1281,6 +1281,9 @@ obj_block0
 obj_block0
  3712
  224
+obj_editor_deathball
+ 352
+ 160
 obj_brick_fall3
  384
  160
