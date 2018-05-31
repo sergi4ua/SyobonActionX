@@ -2,7 +2,7 @@ SERGIOUS_SAX1
 field.ogg
 level2.sax
 No message to show.
-null
+1-1
 null
  0
  0
@@ -474,9 +474,6 @@ obj_fakepipeb
 obj_fakepipeb
  1664
  256
-obj_fakepipeb
- 1664
- 224
 obj_editor_evilcloud
  1536
  192
@@ -498,9 +495,6 @@ obj_block1
 obj_block1
  1664
  416
-obj_fakepipea
- 1664
- 192
 obj_editor_bonuscoin
  1632
  288
@@ -863,15 +857,6 @@ obj_block0
  416
 obj_brick_unbreakable
  2976
- 288
-obj_brick_unbreakable
- 3008
- 288
-obj_brick_unbreakable
- 3040
- 288
-obj_brick_unbreakable
- 3072
  288
 obj_brick_unbreakable
  2944
@@ -1284,12 +1269,27 @@ obj_block0
 obj_editor_deathball
  352
  160
+obj_editor_pipe_bazooka
+ 1664
+ 192
+obj_editor_brick_fall
+ 3360
+ 32
+obj_editor_brick_fall
+ 3392
+ 64
+obj_editor_bonuscoin
+ 3328
+ 64
 obj_brick_fall3
  384
  160
 obj_brick_fall3
  2304
  192
+obj_brick_fall3
+ 3008
+ 288
 obj_dummy
  0
  0

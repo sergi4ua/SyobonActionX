@@ -697,7 +697,7 @@ file_text_write_string(file,global.nextlevel);
 file_text_writeln(file);
 file_text_write_string(file,global.levelmsg);
 file_text_writeln(file);
-file_text_write_string(file,"null");
+file_text_write_string(file,global.levelname);
 file_text_writeln(file);
 file_text_write_string(file,"null");
 file_text_writeln(file);
@@ -856,6 +856,7 @@ switch(LEVEL_REALDATA[0])
     break;
 }
 
+global.levelname = LEVEL_STRINGDATA[2];
 global.levelmsg = LEVEL_STRINGDATA[1];
 global.level_background = LEVEL_REALDATA[0];
 
@@ -1050,6 +1051,7 @@ global.levelmusic = 0;
 music = SS_LoadSound("music\" + LEVEL_MUSICFILE,1);
 global.levelmusic = music;
 
+global.levelname = LEVEL_STRINGDATA[2];
 global.levelmsg = LEVEL_STRINGDATA[1];
 global.level_background = LEVEL_REALDATA[0];
 }
