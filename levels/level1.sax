@@ -1236,9 +1236,6 @@ obj_block0
 obj_block0
  4320
  448
-obj_exit_escape
- 4288
- 384
 obj_block0
  3712
  256
@@ -1281,6 +1278,9 @@ obj_editor_brick_fall
 obj_editor_bonuscoin
  3328
  64
+obj_editor_flagpole
+ 4288
+ 384
 obj_brick_fall3
  384
  160
