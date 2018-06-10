@@ -3,21 +3,21 @@
 //Call this to start the system
 
 global.dll_SS_Init = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_Init",
   dll_stdcall,
   ty_string,
   0);
 
 global.dll_SS_Unload = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_Init",
   dll_stdcall,
   ty_string,
   0);
 
 global.dll_SS_LoadSound = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_LoadSound",
   dll_stdcall,
   ty_string,
@@ -26,7 +26,7 @@ global.dll_SS_LoadSound = external_define(
   ty_string);
 
 global.dll_SS_PlaySound = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_PlaySound",
   dll_stdcall,
   ty_string,
@@ -34,7 +34,7 @@ global.dll_SS_PlaySound = external_define(
   ty_string);
 
 global.dll_SS_LoopSound = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_LoopSound",
   dll_stdcall,
   ty_string,
@@ -43,7 +43,7 @@ global.dll_SS_LoopSound = external_define(
 
 
 global.dll_SS_StopSound = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_StopSound",
   dll_stdcall,
   ty_string,
@@ -51,7 +51,7 @@ global.dll_SS_StopSound = external_define(
   ty_string);
 
 global.dll_SS_SetSoundFreq = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_SetSoundFreq",
   dll_stdcall,
   ty_string,
@@ -60,7 +60,7 @@ global.dll_SS_SetSoundFreq = external_define(
   ty_string);
 
 global.dll_SS_SetSoundPan = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_SetSoundPan",
   dll_stdcall,
   ty_string,
@@ -69,7 +69,7 @@ global.dll_SS_SetSoundPan = external_define(
   ty_string);
 
 global.dll_SS_SetSoundVol = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_SetSoundVol",
   dll_stdcall,
   ty_string,
@@ -78,7 +78,7 @@ global.dll_SS_SetSoundVol = external_define(
   ty_string);
 
 global.dll_SS_FreeSound = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_FreeSound",
   dll_stdcall,
   ty_string,
@@ -86,7 +86,7 @@ global.dll_SS_FreeSound = external_define(
   ty_string);
 
 global.dll_SS_IsSoundPlaying = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_IsSoundPlaying",
   dll_stdcall,
   ty_string,
@@ -94,7 +94,7 @@ global.dll_SS_IsSoundPlaying = external_define(
   ty_string);
 
 global.dll_SS_GetSoundPosition = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_GetSoundPosition",
   dll_stdcall,
   ty_string,
@@ -102,7 +102,7 @@ global.dll_SS_GetSoundPosition = external_define(
   ty_string);
 
 global.dll_SS_SetSoundPosition = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_SetSoundPosition",
   dll_stdcall,
   ty_string,
@@ -111,7 +111,7 @@ global.dll_SS_SetSoundPosition = external_define(
   ty_string);
 
 global.dll_SS_GetSoundLength = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_GetSoundLength",
   dll_stdcall,
   ty_string,
@@ -119,7 +119,7 @@ global.dll_SS_GetSoundLength = external_define(
   ty_string);
   
 global.dll_SS_GetSoundBytesPerSecond = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_GetSoundBytesPerSecond",
   dll_stdcall,
   ty_string,
@@ -127,7 +127,7 @@ global.dll_SS_GetSoundBytesPerSecond = external_define(
   ty_string);
 
 global.dll_SS_GetSoundVol = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_GetSoundVol",
   dll_stdcall,
   ty_string,
@@ -135,7 +135,7 @@ global.dll_SS_GetSoundVol = external_define(
   ty_string);
 
 global.dll_SS_GetSoundFreq = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_GetSoundFreq",
   dll_stdcall,
   ty_string,
@@ -143,7 +143,7 @@ global.dll_SS_GetSoundFreq = external_define(
   ty_string);
 
 global.dll_SS_GetSoundPan = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_GetSoundPan",
   dll_stdcall,
   ty_string,
@@ -151,7 +151,7 @@ global.dll_SS_GetSoundPan = external_define(
   ty_string);
 
 global.dll_SS_IsSoundLooping = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_IsSoundLooping",
   dll_stdcall,
   ty_string,
@@ -159,7 +159,7 @@ global.dll_SS_IsSoundLooping = external_define(
   ty_string);
 
 global.dll_SS_IsSoundPaused = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_IsSoundPaused",
   dll_stdcall,
   ty_string,
@@ -167,7 +167,7 @@ global.dll_SS_IsSoundPaused = external_define(
   ty_string);
 
 global.dll_SS_ResumeSound = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_ResumeSound",
   dll_stdcall,
   ty_string,
@@ -175,7 +175,7 @@ global.dll_SS_ResumeSound = external_define(
   ty_string);
 
 global.dll_SS_PauseSound = external_define(
-  "libs\supersound.dll",
+  "supersound.dll",
   "SS_PauseSound",
   dll_stdcall,
   ty_string,
@@ -765,7 +765,6 @@ var iterator;
 
 // open file dialog
 
-instance_create(0,0,obj_hourglass);
 
 filename = get_open_filename("Syobon Action X levels (*.sax)|*.sax", "1-1.sax");
 if(filename == "")
@@ -775,7 +774,6 @@ if(filename == "")
 instance_deactivate_object(obj_cursor);
 instance_deactivate_object(obj_editor_controller);
 instance_deactivate_object(obj_initss);
-instance_deactivate_object(obj_hourglass);
 
 for(i = 0; i < instance_count; i += 1)
 {
@@ -850,7 +848,11 @@ switch(LEVEL_REALDATA[0])
     case 1:
         background_color = c_black;
     break;
-        
+      
+    case 2:
+     background_color = c_black;
+    break;
+      
     default:
         background_color = make_color_rgb(160,180,250);
     break;
@@ -860,10 +862,6 @@ global.levelname = LEVEL_STRINGDATA[2];
 global.levelmsg = LEVEL_STRINGDATA[1];
 global.level_background = LEVEL_REALDATA[0];
 
-with(obj_hourglass)
-{   
-    alarm[0] = 15;
-}
 global.protectlevel = false;
 }
 
@@ -944,8 +942,6 @@ global.lvltoload = ini_read_string("Universe","StartupLevel","1-1.sax");
 
 ini_close()
 
-
-
 #define load_level
 // loads level file created in the level editor
 {
@@ -969,13 +965,12 @@ var LEVEL_OBJECTY;
 var music;
 // open file dialog
 
-instance_create(0,0,obj_hourglass);
-
 if(!file_exists(filename))
 {
-    wd_message_set_text("couldn't open: " + filename);
-    wd_message_show(wd_mk_error, wd_mb_ok,wd_mb_none,wd_mb_none);
+    message_text_font("Arial",12,c_white,1);
+    show_message("Couldn't open: " + filename + "#Error Type: BROKEN_PIPE#Game will now close.");
     game_end();
+    exit;
 }
 
 file = file_text_open_read(filename);
@@ -987,9 +982,10 @@ if(LEVEL_VERSION == "TPAK_@SAX1") { protected = true; show_debug_message("Loadin
 
 if(LEVEL_VERSION != "SERGIOUS_SAX1" and protected == false)
 {
-    wd_message_set_text("Couldn't load file: unknown level version.");
-    wd_message_show(wd_mk_error,wd_mb_ok,wd_mb_none,wd_mb_none);
+    message_text_font("Arial",12,c_white,1);
+    show_message("Couldn't open: " + filename + "#Error Type: UNKNOWN_LEVEL_FORMAT#Game will now close.");
     game_end();
+    exit;
 }
 if(LEVEL_VERSION == "TPAK_@SAX1") { show_debug_message("Loading protected level.")};
 // get the level music filename
@@ -1032,11 +1028,6 @@ instance_activate_all();
 
 view_xview[0] = 0;
 
-with(obj_hourglass)
-{   
-    alarm[0] = 15;
-}
-
 // copy local vars intro level globals
 for(sdata = 0; sdata < 4; sdata+=1)
     {
@@ -1055,4 +1046,14 @@ global.levelname = LEVEL_STRINGDATA[2];
 global.levelmsg = LEVEL_STRINGDATA[1];
 global.level_background = LEVEL_REALDATA[0];
 }
+
+#define save_game
+var file;
+file = file_text_open_write(working_directory + "\player.sav");
+file_text_write_string(file,global.lvltoload);
+file_text_writeln(file);
+file_text_write_real(file,global.coins * 8369827173);
+file_text_writeln(file);
+file_text_write_real(file,global.lives);
+file_text_close(file);
 
