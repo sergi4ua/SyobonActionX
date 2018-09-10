@@ -1,5 +1,6 @@
 ## Syobon Action X
-(https://sergi4ua.github.io
+https://sergi4ua.pp.ua
+https://sergi4ua.pp.ua/games/sax
 
 **Platformer engine gone in Game Maker 8.1 Standard.**
 
@@ -14,7 +15,7 @@ SyobonActionX.gmk - main GM8.1 project file
 
 SyobonActionX.exe - main executable
 
-libs/supersound.dll - the SuperSound library
+supersound.dll - the SuperSound library
 
 config.ini - configuration file
 
