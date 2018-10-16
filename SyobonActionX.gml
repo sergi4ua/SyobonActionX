@@ -675,6 +675,108 @@ if filename_ext(filename) == ""
 instance_deactivate_object(obj_cursor);
 instance_deactivate_object(obj_editor_controller);
 instance_deactivate_object(obj_initss);
+// don't save editor buttons!
+instance_deactivate_object(obj_editor_btn1);
+instance_deactivate_object(obj_editor_btn2);
+instance_deactivate_object(obj_editor_btn3);
+instance_deactivate_object(obj_editor_btn4);
+
+// write level data to file
+
+file = file_text_open_write(filename);
+
+// write global data to file
+if(global.protectlevel == false)
+{
+file_text_write_string(file,"SERGIOUS_SAX1"); // level version
+file_text_writeln(file);
+}
+else
+{
+file_text_write_string(file,"TPAK_@SAX1"); // protect version
+file_text_writeln(file);
+}
+file_text_write_string(file,global.musicfile);
+file_text_writeln(file);
+file_text_write_string(file,global.nextlevel);
+file_text_writeln(file);
+file_text_write_string(file,global.levelmsg);
+file_text_writeln(file);
+file_text_write_string(file,global.levelname);
+file_text_writeln(file);
+file_text_write_string(file,"null");
+file_text_writeln(file);
+file_text_write_real(file,global.level_background);
+file_text_writeln(file);
+file_text_write_real(file,0);
+file_text_writeln(file);
+file_text_write_real(file,0);
+file_text_writeln(file);
+file_text_write_real(file,0);
+file_text_writeln(file);
+if(global.protectlevel == true)
+{
+    instance_create(0,0,obj_protectlevel);
+}
+instance_create(0,0,obj_dummy);
+instance_create(0,0,obj_dummy);
+instance_create(0,0,obj_dummy);
+file_text_write_real(file,instance_count);
+file_text_writeln(file);
+
+for(i = 0; i < instance_count; i+= 1)
+{
+    with (instance_id[i]) {
+        file_text_write_string(file, object_get_name(object_index));
+        file_text_writeln(file);
+        file_text_write_real(file, x);
+        file_text_writeln(file);
+        file_text_write_real(file, y);
+        file_text_writeln(file);
+    }
+}
+
+file_text_close(file);
+SS_PlaySound(global.sfx_editorsaved);
+//wd_message_simple("Level saved to: " + filename);
+instance_activate_all();
+global.protectlevel = false;
+global.saving = false;
+
+if(instance_exists(obj_hourglass))
+{
+    with(obj_hourglass)
+        instance_destroy();
+}
+
+#define scr_editor_save_temp_file
+global.saving = true;
+var filename;
+var file;
+var pressed;
+
+// SAVE FILE DIALOG
+
+filename = "levels\temp.sax";
+
+if(filename == "")
+    exit;
+    
+if filename_ext(filename) == ""
+{
+    filename = filename + ".sax";
+}
+
+// deactivate objects that not needed
+
+instance_deactivate_object(obj_cursor);
+instance_deactivate_object(obj_editor_controller);
+instance_deactivate_object(obj_initss);
+// don't save editor buttons!
+instance_deactivate_object(obj_editor_btn1);
+instance_deactivate_object(obj_editor_btn2);
+instance_deactivate_object(obj_editor_btn3);
+instance_deactivate_object(obj_editor_btn4);
 
 // write level data to file
 
@@ -774,6 +876,135 @@ if(filename == "")
 instance_deactivate_object(obj_cursor);
 instance_deactivate_object(obj_editor_controller);
 instance_deactivate_object(obj_initss);
+instance_deactivate_object(obj_editor_btn1);
+instance_deactivate_object(obj_editor_btn2);
+instance_deactivate_object(obj_editor_btn3);
+instance_deactivate_object(obj_editor_btn4);
+
+for(i = 0; i < instance_count; i += 1)
+{
+    with (instance_id[i]) {
+        instance_destroy();
+    }
+}
+
+// open the level file for reading
+file = file_text_open_read(filename);
+
+// get the level version
+
+LEVEL_VERSION = file_text_read_string(file);
+file_text_readln(file);
+if(LEVEL_VERSION != "SERGIOUS_SAX1")
+{
+    wd_message_set_text("Couldn't load file: unknown level version.");
+    wd_message_show(wd_mk_error,wd_mb_ok,wd_mb_none,wd_mb_none);
+    game_end();
+}
+// get the level music filename
+global.musicfile = file_text_read_string(file);
+file_text_readln(file);
+//show_message(LEVEL_MUSICFILE);
+// loop
+for(a = 0; a < 4; a += 1)
+{
+    LEVEL_STRINGDATA[a] = file_text_read_string(file);
+    file_text_readln(file);
+   // show_message(LEVEL_STRINGDATA[a]);
+}
+for(b = 0; b < 4; b += 1)
+{
+    LEVEL_REALDATA[b] = file_text_read_real(file);
+    file_text_readln(file);
+    //show_message(LEVEL_REALDATA[b]);
+}
+// get the object count
+LEVEL_OBJECTCOUNT = file_text_read_real(file);
+file_text_readln(file);
+//show_message(string(LEVEL_OBJECTCOUNT));
+// create the objects
+
+for(c = 0; c < LEVEL_OBJECTCOUNT; c += 1)
+{
+    LEVEL_OBJECTNAME[c] = file_text_read_string(file);
+    file_text_readln(file);
+    LEVEL_OBJECTX[c] = file_text_read_real(file);
+    file_text_readln(file);
+    LEVEL_OBJECTY[c] = file_text_read_real(file);
+    file_text_readln(file);
+    //show_message(string(c) + "#" + LEVEL_OBJECTNAME[c] + "#" + string(LEVEL_OBJECTX[c]) + "#" + string(LEVEL_OBJECTY[c]))
+    execute_string("instance_create(" + string(LEVEL_OBJECTX[c]) + ","+string(LEVEL_OBJECTY[c]) + "," + string(LEVEL_OBJECTNAME[c]) + ")");
+}
+
+file_text_close(file);
+instance_activate_all();
+
+view_xview[0] = 0;
+
+if(LEVEL_STRINGDATA[0] == "null")
+    LEVEL_STRINGDATA[0] = "exit";
+global.nextlevel = LEVEL_STRINGDATA[0];
+
+switch(LEVEL_REALDATA[0])
+{
+    case 0:
+        background_color = make_color_rgb(160,180,250);
+    break;
+        
+    case 1:
+        background_color = c_black;
+    break;
+      
+    case 2:
+     background_color = c_black;
+    break;
+      
+    default:
+        background_color = make_color_rgb(160,180,250);
+    break;
+}
+
+global.levelname = LEVEL_STRINGDATA[2];
+global.levelmsg = LEVEL_STRINGDATA[1];
+global.level_background = LEVEL_REALDATA[0];
+
+global.protectlevel = false;
+}
+
+#define scr_editor_load_temp_level
+{
+var filename;
+var file;
+var pressed;
+
+var LEVEL_VERSION; // level version
+var LEVEL_MUSICFILE; // level music
+var LEVEL_STRINGDATA; // various strings
+var LEVEL_INTEGERDATA; // various integers (level width, background, etc...)
+var LEVEL_OBJECTCOUNT; // var contains the total number of objects in the level
+
+// level info
+var LEVEL_OBJECTNAME;
+var LEVEL_OBJECTX;
+var LEVEL_OBJECTY;
+
+var iterator;
+
+// open file dialog
+
+
+filename = "levels\temp.sax";
+if(filename == "")
+    exit;
+    
+// deactivate the editor objects and clear the room
+instance_deactivate_object(obj_cursor);
+instance_deactivate_object(obj_editor_controller);
+instance_deactivate_object(obj_initss);
+instance_deactivate_object(obj_editor_btn1);
+instance_deactivate_object(obj_editor_btn2);
+instance_deactivate_object(obj_editor_btn3);
+instance_deactivate_object(obj_editor_btn4);
 
 for(i = 0; i < instance_count; i += 1)
 {
